@@ -1,0 +1,31 @@
+y#EXTM3U
+#EXTINF:-1 ,Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 ,Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 ,True Sports 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 ,True Sports 2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 ,True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 ,TNT sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+EXTINF:-1# ,Star sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 ,Sony Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 ,ASTRO SUPER SPORTS
+https://mlb.mrgamingstreams.com/astro.m3u8
+#EXTINF:-1 ,SSC SPORTS
+https://af.ayassport.ir/hls2/ssc1.m3u8?fbclid=IwAR2f1k1p1kaWl402HN-HbpvWto_SWsUSvcWltvtPBtSqmdD9Bh2MxbtJ7No
+#EXTINF:-1 , SPORTS 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,Discovery ALL https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
+#EXTINF:-1 ,Zee Cinema HD https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 ,CARTOON NETWORK https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 ,TOON TUBERS https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8 
+
+
