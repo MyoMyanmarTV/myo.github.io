@@ -1,4 +1,4 @@
-y#EXTM3U
+#EXTM3U
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,Via Play Sports 2
@@ -27,5 +27,40 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/inde
 #EXTINF:-1 ,Zee Cinema HD https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,CARTOON NETWORK https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 ,TOON TUBERS https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8 
+#EXTINF:-1,TVM http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1,Series 1 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
+#EXTINF:-1,Series 2 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
+#EXTINF:-1,Movies 3 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
+#EXTINF:-1,Movies 4 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts 
+#EXTINF:-1,Movies 5 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts 
+#EXTINF:-1,Chinese Drama http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7itaYq8FGIj0DHHQChdymM/ts
+#EXTINF:-1,Myanmar Speaker Movie  http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/ts
+#EXTINF:-1,MMSUBMOVIES",TheRoundup http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
