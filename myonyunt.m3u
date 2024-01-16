@@ -542,9 +542,11 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1,TVM 
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1,GOLDENLAND http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,GOLDENLAND 
+http://203.81.84.130/hls/mwd_document/index.m3u8
 
-
+#EXTINF:-1,Myanmar Speaker Movie 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
 
 
