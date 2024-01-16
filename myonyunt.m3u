@@ -536,5 +536,17 @@ http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 #EXTINF:-1,EPL2 HD
 http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
-#EXTINF:-1,Sports VIP1
-http://150.9
+#EXTINF:-1,Channel K 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
+
+#EXTINF:-1,TVM 
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,GOLDENLAND http://203.81.84.130/hls/mwd_document/index.m3u8
+
+
+
+
+
+
+
