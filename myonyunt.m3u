@@ -274,9 +274,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0no
 #EXTINF:-1,World Fashion
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-z5oYIEWOFr-jmrhl51sap/ts
 
-#EXTINF:-1,Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8#
-
 #EXTINF:-1,HBO
 http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
@@ -457,9 +454,6 @@ https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transc
 #EXTINF:-1,
 https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
 RAW Paste Data
-#EXTIM3U
-#EXTINF:-1,Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1,HBO
 http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
@@ -535,6 +529,21 @@ http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
 #EXTINF:-1,EPL2 HD
 http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ELEVEN 1 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/
+
+#EXTINF:-1,ELEVEN 2 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/
+
+#EXTINF:-1,ELEVEN 3 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
+
+#EXTINF:-1,ELEVEN 5 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/
+
+#EXTINF:-1,Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1,Channel K 
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
