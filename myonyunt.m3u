@@ -29,6 +29,21 @@ Comments
 aunglinnaing749commentedon Nov 7, 2023
 
 #EXTIM3U
+#EXTINF:-1,Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,Channel K 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
+
+#EXTINF:-1,TVM 
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,GOLDENLAND 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,Myanmar Speaker Movie 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
+
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
 
@@ -271,60 +286,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXziz
 #EXTINF:-1,Discovery Asia
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
 
-#EXTINF:-1,World Fashion
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-z5oYIEWOFr-jmrhl51sap/ts
-
-#EXTINF:-1,HBO
-http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO SD
-http://150.95.25.221:8000/HBO%20SD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Hit
-http://150.95.25.221:8000/HBO%20Hit?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Sig
-http://150.95.25.221:8000/HBO%20Sig?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO FAMILY
-http://150.95.25.221:8000/HBO%20FAMILY?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2226
-
-#EXTINF:-1,HBO 2
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2248
-
-#EXTINF:-1,HBO 3
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2225
-
-EXTINF:-1,HBO Top Ten
-http://150.95.25.221:8000/HBO%20Top%20Ten?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Now Movies
-http://150.95.25.221:8000/HBO%20Now%20Movies?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Action
-http://150.95.25.221:8000/HBO%20Action?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Asian
-http://150.95.25.221:8000/HBO%20Asian?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO BOLLYWOOD
-http://150.95.25.221:8000/HBO%20BOLLYWOOD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO ANIMATION
-http://150.95.25.221:8000/HBO%20ANIMATION?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO MAX
-http://150.95.25.221:8000/HBO%20MAX?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,CINEMAX HD
-http://150.95.25.221:8000/CINEMAX%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Hit Movies HD
-http://150.95.25.221:8000/Hit%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
 #EXTINF:-1,Cinemax HD
 http://150.95.25.221:8000/Cinemax%20%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
@@ -333,15 +294,6 @@ http://150.95.25.221:8000/Star%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwa
 
 #EXTINF:-1,Star Movies Select HD
 http://150.95.25.221:8000/Star%20Movies%20Select%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN 1 TH
-http://150.95.25.221:8000/BeIN%201%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN2 TH
-http://150.95.25.221:8000/BeIN2%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN3 TH
-http://150.95.25.221:8000/BeIN3%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
 #EXTINF:-1,EPL1 HD
 http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
@@ -542,20 +494,6 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
 #EXTINF:-1,ELEVEN 5 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/
 
-#EXTINF:-1,Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-
-#EXTINF:-1,Channel K 
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
-
-#EXTINF:-1,TVM 
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-
-#EXTINF:-1,GOLDENLAND 
-http://203.81.84.130/hls/mwd_document/index.m3u8
-
-#EXTINF:-1,Myanmar Speaker Movie 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
 
 
