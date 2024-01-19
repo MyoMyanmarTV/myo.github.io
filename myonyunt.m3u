@@ -140,7 +140,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZ
 #EXTINF:-1,HBO 2
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
 
-#EXTINF:-1HBO3
+#EXTINF:-1,HBO 3
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8BVrsOqJYj1vYT_bdvul_T/ts
 
 #EXTINF:-1,HBO Europe
@@ -357,30 +357,6 @@ http://150.95.25.221:8000/Star%20Select%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIw
 
 #EXTINF:-1,Star Select 2HD
 http://150.95.25.221:8000/Star%20Select%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sony Ten1
-http://150.95.25.221:8000/Sony%20Ten1?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sony Ten2
-http://150.95.25.221:8000/Sony%20Ten2?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sony Ten3
-http://150.95.25.221:8000/Sony%20Ten3?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sony Ten4
-http://150.95.25.221:8000/Sony%20Ten4?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sony Ten5
-http://150.95.25.221:8000/Sony%20Ten5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,TEN 1HD
-http://150.95.25.221:8000/TEN%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,TEN 2HD
-http://150.95.25.221:8000/TEN%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,TEN 3HD
-http://150.95.25.221:8000/TEN%203HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
 
 #EXTINF:-1,ASTRO SPORT 1
 http://150.95.25.221:8000/ASTRO%20SPORT%201?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
