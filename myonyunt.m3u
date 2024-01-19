@@ -29,6 +29,9 @@ Comments
 aunglinnaing749commentedon Nov 7, 2023
 
 #EXTIM3U
+#EXTINF:-1, Buddha
+http://bananatv.org:25461/live/59999/59999/836.ts
+
 #EXTINF:-1,Mrtv4
 http://bananatv.org:25461/live/59999/59999/6559.ts
 
@@ -47,6 +50,10 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1,Myanmar Speaker Movie 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
+#EXTINF:-1, HBO Family
+http://bananatv.org:25461/live/59999/59999/3343.ts
+
+
 #EXTINF:-1, သုခုမ၁
 http://bananatv.org:25461/live/59999/59999/6547.ts
 
@@ -59,6 +66,12 @@ http://bananatv.org:25461/live/59999/59999/6549.ts
 
 #EXTINF:-1, Myanmar Movie
 http://bananatv.org:25461/live/59999/59999/6550.ts
+
+#EXTINF:-1, Movie Action
+http://bananatv.org:25461/live/59999/59999/7073.ts
+
+#EXTINF:-1, Zee cinena
+http://bananatv.org:25461/live/59999/59999/126.ts
 
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
