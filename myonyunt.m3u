@@ -62,14 +62,47 @@ http://bananatv.org:25461/live/59999/59999/6549.ts
 #EXTINF:-1, Myanmar Movie
 http://bananatv.org:25461/live/59999/59999/6550.ts
 
+#EXTINF:-1,World Movies 
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
+
+#EXTINF:-1,Action Movies 
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2_RyvsiDL0EdkpzB/ts
+
+#EXTINF:-1,ASIAN Movies 
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
+
+#EXTINF:-1,Hits
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
+
+#EXTINF:-1,Hits Movies
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_9Vd3WhYI1E8SNLc/ts
+
+#EXTINF:-1,Thrill
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
+
+#EXTINF:-1,Canal+Action 
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
+
+#EXTINF:-1,Canal+ZATLENN
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
+
+#EXTINF:-1,Skynet Dramar
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
+
+#EXTINF:-1,Canal+MAEMADI
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
+
+#EXTINF:-1,Canal+PUTUTUE
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
+
+#EXTINF:-1,Canal+CHATATE
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
+
 #EXTINF:-1, HBO Family
 http://bananatv.org:25461/live/59999/59999/3343.ts
 
 #EXTINF:-1, Movies
 http://bananatv.org:25461/live/59999/59999/532.ts
-
-#EXTINF:-1,Thrill
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
 
 #EXTINF:-1, Movie Action
 http://bananatv.org:25461/live/59999/59999/7073.ts
@@ -119,38 +152,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgw
 #EXTINF:-1, Zee cinena
 http://bananatv.org:25461/live/59999/59999/126.ts
 
-#EXTINF:-1,World Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
 
-#EXTINF:-1,Action Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2_RyvsiDL0EdkpzB/ts
-
-#EXTINF:-1,ASIAN Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
-
-#EXTINF:-1,Hits
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
-
-#EXTINF:-1,Hits Movies
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_9Vd3WhYI1E8SNLc/ts
-
-#EXTINF:-1,Canal+Action 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
-
-#EXTINF:-1,Canal+ZATLENN
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
-
-#EXTINF:-1,Skynet Dramar
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
-
-#EXTINF:-1,Canal+MAEMADI
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
-
-#EXTINF:-1,Canal+PUTUTUE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
-
-#EXTINF:-1,Canal+CHATATE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
 
 #EXTINF:-1,BananaSport03
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
@@ -416,114 +418,28 @@ http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2238
 #EXTINF:-1,Love Nature
 http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/67018
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn--P7mYXNiB5VOMG4ES1Ymcc5Klk4/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699c-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-wmWz5AWN6ke6rLevBYjfv2hwxO8/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698c-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-5BO7_6wmyViOqwDjbrZPblwGc6Y/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698b-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-xAqSk9W-_xaWwV8BuPHy5TrzL-s/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698a-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697c-popsthai/index-f2-v1-a1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
 RAW Paste Data
 
-#EXTINF:-1,HBO
-http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO SD
-http://150.95.25.221:8000/HBO%20SD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Hit
-http://150.95.25.221:8000/HBO%20Hit?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Sig
-http://150.95.25.221:8000/HBO%20Sig?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO FAMILY
-http://150.95.25.221:8000/HBO%20FAMILY?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2226
-
-#EXTINF:-1,HBO 2
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2248
-
-#EXTINF:-1,HBO 3
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2225
-
-EXTINF:-1,HBO Top Ten
-http://150.95.25.221:8000/HBO%20Top%20Ten?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Now Movies
-http://150.95.25.221:8000/HBO%20Now%20Movies?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Action
-http://150.95.25.221:8000/HBO%20Action?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO Asian
-http://150.95.25.221:8000/HBO%20Asian?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO BOLLYWOOD
-http://150.95.25.221:8000/HBO%20BOLLYWOOD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO ANIMATION
-http://150.95.25.221:8000/HBO%20ANIMATION?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,HBO MAX
-http://150.95.25.221:8000/HBO%20MAX?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,CINEMAX HD
-http://150.95.25.221:8000/CINEMAX%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Hit Movies HD
-http://150.95.25.221:8000/Hit%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Cinemax HD
-http://150.95.25.221:8000/Cinemax%20%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Movies HD
-http://150.95.25.221:8000/Star%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Movies Select HD
-http://150.95.25.221:8000/Star%20Movies%20Select%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN 1 TH
-http://150.95.25.221:8000/BeIN%201%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN2 TH
-http://150.95.25.221:8000/BeIN2%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,BeIN3 TH
-http://150.95.25.221:8000/BeIN3%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,EPL1 HD
-http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,EPL2 HD
-http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,ELEVEN 1 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/
-
-#EXTINF:-1,ELEVEN 2 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/
-
-#EXTINF:-1,ELEVEN 3 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
-
-#EXTINF:-1,ELEVEN 5 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/
 
 
 
