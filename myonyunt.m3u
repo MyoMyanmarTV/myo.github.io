@@ -50,8 +50,15 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 #EXTINF:-1, သုခုမ၁
 http://bananatv.org:25461/live/59999/59999/6547.ts
 
+#EXTINF:-1, သုခုမ၂
+http://bananatv.org:25461/live/59999/59999/6548.ts
+
+
 #EXTINF:-1, Myanmar Movie
-http://bananatv.org:25461/live/59999/59999/6547.ts
+http://bananatv.org:25461/live/59999/59999/6549.ts
+
+#EXTINF:-1, Myanmar Movie
+http://bananatv.org:25461/live/59999/59999/6550.ts
 
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
