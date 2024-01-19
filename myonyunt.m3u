@@ -29,8 +29,8 @@ Comments
 aunglinnaing749commentedon Nov 7, 2023
 
 #EXTIM3U
-#EXTINF:-1.Mrtv4
-.http://bananatv.org:25461/live/59999/59999/6559.ts
+#EXTINF:-1,Mrtv4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA2OjI2OjUwIEFNJmhhc2hfdmFsdWU9T1dsU1AvSFpHeEk0U2lGdzhWcjg1dz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMw==
 
 #EXTINF:-1,Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
