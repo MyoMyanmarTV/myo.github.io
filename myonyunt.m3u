@@ -154,10 +154,10 @@ http://bananatv.org:25461/live/59999/59999/126.ts
 
 
 
-#EXTINF:-1,BananaSport03
+#EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
 
-#EXTINF:-1,bananaSport04
+#EXTINF:-1, CANAL+Sport 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_27V1T-uibEZidCpUPSjDC/ts
 
 #EXTINF:-1,EPL 1
@@ -387,12 +387,6 @@ http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/9839
 
 #EXTINF:-1,BBC Earth
 http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/19910
-
-#EXTINF:-1,Animal World
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2238
-
-#EXTINF:-1,Love Nature
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/67018
 
 #EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
