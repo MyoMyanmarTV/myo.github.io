@@ -71,6 +71,15 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2
 #EXTINF:-1,ASIAN Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
 
+#EXTINF:-1, HBO Family
+http://bananatv.org:25461/live/999333/999333/3343.ts
+
+#EXTINF:-1, Movies
+http://bananatv.org:25461/live/999333/999333/532.ts
+
+#EXTINF:-1, Movie Action
+http://bananatv.org:25461/live/999333/999333/7073.ts
+
 #EXTINF:-1,Hits
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
 
@@ -79,6 +88,13 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_
 
 #EXTINF:-1,Thrill
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
+
+#EXTINF:-1,zee Cinema 
+http://bananatv.org:25461/live/999333/999333/126.ts
+
+#EXTINF:-1,series 1
+http://bananatv.org:25461/live/999333/999333/1279.ts
+
 
 #EXTINF:-1,Canal+Action 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
@@ -113,14 +129,6 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1, HBO Family
-http://bananatv.org:25461/live/999333/999333/3343.ts
-
-#EXTINF:-1, Movies
-http://bananatv.org:25461/live/999333/999333/532.ts
-
-#EXTINF:-1, Movie Action
-http://bananatv.org:25461/live/999333/999333/7073.ts
 
 #EXTINF:-1,Rock Entertainment
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
@@ -230,11 +238,22 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5H
 #EXTINF:-1,EPL 5 SD For Slow Network
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
 
+#EXTINF:-1,EPL 5 Skynet sport HD (Live)
+http://bananatv.org:25461/live/999333/999333/7143.ts
+
+
 #EXTINF:-1,EPL 5 Skynet sport.6 (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
 
 #EXTINF:-1,EPL 5 (Live HD)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8Dy_yVY-7dRMxVk6zi5har/ts
+
+#EXTINF:-1,V Sport (Live HD)
+http://bananatv.org:25461/live/999333/999333/6258.
+
+
+#EXTINF:-1,Eneven sport1 (Live HD)
+http://bananatv.org:25461/live/999333/999333/640.ts
 
 #EXTINF:-1,EPL 6 Highlight
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9E02BLhxh45bCLqMTKqFnL/ts
