@@ -50,10 +50,10 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1,Myanmar Speaker Movie 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
-#EXTINF:-1, သုခုမ၁
+#EXTINF:-1, Thu ku ma 1(သုခုမ၁)
 http://bananatv.org:25461/live/999333/999333/6547.ts
 
-#EXTINF:-1, သုခုမ၂
+#EXTINF:-1, Thu ku ma 2(သုခုမ၂)
 http://bananatv.org:25461/live/999333/999333/6548.ts
 
 #EXTINF:-1, Myanmar Movie 1
