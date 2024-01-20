@@ -98,6 +98,21 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3d
 #EXTINF:-1,Canal+CHATATE
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
 
+#EXTINF:-1,Baby TV 
+http://37.48.101.149:7017/play/a01y/index.m3u8
+
+#EXTINF:-1,CN Cartoon 
+https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
+
+#EXTINF:-1,Boomerang 
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+
+#EXTINF:-1,CartoonNetowrk 
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+
+#EXTINF:-1,WB Cartoon 
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
 #EXTINF:-1, HBO Family
 http://bananatv.org:25461/live/59999/59999/3343.ts
 
@@ -149,10 +164,50 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wS
 #EXTINF:-1,HBO Family
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
 
+#EXTINF:-1,INDIA MOVIE 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+
+#EXTINF:-1,Zee tv 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8 
+
 #EXTINF:-1, Zee cinena
 http://bananatv.org:25461/live/59999/59999/126.ts
 
+#EXTINF:-1,&tv 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
+#EXTINF:-1,&picture 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+#EXTINF:-1,Zee Kannada 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+
+#EXTINF:-1,Zee bangla sd 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
+#EXTINF:-1,Zee bangla hd 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+
+#EXTINF:-1,Zee cinema BANGLA 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+
+#EXTINF:-1,Zee Marathi 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+
+#EXTINF:-1,Zee anmol 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8 
+
+#EXTINF:-1,Zee cinemalu 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+
+#EXTINF:-1,Zee cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#EXTINF:-1,Zee Bollywood 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
+#EXTINF:-1,Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
@@ -198,6 +253,12 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_n
 
 #EXTINF:-1,Laliga 4
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
+
+#EXTINF:-1,Beinsport 1 Thailand 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
+
+#EXTINF:-1,Beinsport 2 Thailand 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts 
 
 #EXTINF:-1,Play sports 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZeV9LiZVCky5Qnjao1Id_/ts
@@ -277,6 +338,15 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vY5OzB
 #EXTINF:-1,Fight Box
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9i9ZAWhorngPC1rTdekg5s/ts
 
+#EXTINF:-1,FoxSport 
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1,FoxSport 2 
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 3 
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
 #EXTINF:-1,WWE
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8es6yhiPYj7Qz1gx-JBqzB/ts
 
@@ -292,6 +362,42 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8dXLX2e
 #EXTINF:-1,TRT 3 SPOR
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8MAOWId5u2AsJRPqsLc7dl/ts
 
+#EXTINF:-1,Start Sports 
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+#EXTINF:-1,Star Sports 1HD 
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1,Star sports 1SD 
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1,BEK Sports West 
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1,One Golf 
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1,MUTV Sport 
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
+
+#EXTINF:-1,Real Madrid TV 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8 
+
+#EXTINF:-1,Trace Sport Stars 
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TVS Women Sports 
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1,FOX WWW SPORTS 
+http://208.86.19.13:81/103.stream/index.m3u8
+
+#EXTINF:-1,sport LIVE 1 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1,CCTV 5 
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 #EXTINF:-1,TRT YILDIZ HD
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_VaJdcwjrdP3lylKyMPvf2/ts
 
@@ -300,9 +406,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB
 
 #EXTINF:-1,TV4 Motor
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV180nE-tmQY1FbDJ/ts
-
-#EXTINF:-1,TV4 Tennis
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9q7TOF1J-kP5R6Pt-cTCno/ts
 
 #EXTINF:-1,Animal Planet
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
@@ -318,75 +421,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXziz
 
 #EXTINF:-1,Discovery Asia
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
-
-#EXTINF:-1,Cinemax HD
-http://150.95.25.221:8000/Cinemax%20%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Movies HD
-http://150.95.25.221:8000/Star%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Movies Select HD
-http://150.95.25.221:8000/Star%20Movies%20Select%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,EPL1 HD
-http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,EPL2 HD
-http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports VIP1
-http://150.95.25.221:8000/Sports%20VIP%5FHBO?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports VIP2
-http://150.95.25.221:8000/Sports%20VIP%5FCinemax?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports Vip3
-http://150.95.25.221:8000/Sports%20Vip?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports1 Asiasat5
-http://150.95.25.221:8000/Sports1%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports2 Asiasat5
-http://150.95.25.221:8000/Sports2%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Sports3 Asiasat5
-http://150.95.25.221:8000/Sports3%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Select 1HD
-http://150.95.25.221:8000/Star%20Select%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Star Select 2HD
-http://150.95.25.221:8000/Star%20Select%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,ASTRO SPORT 1
-http://150.95.25.221:8000/ASTRO%20SPORT%201?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,ASTRO SPORT 2
-http://150.95.25.221:8000/ASTRO%20SPORT%202?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,ASTRO SPORT 3
-http://150.95.25.221:8000/ASTRO%20SPORT%203?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,ASTRO SPORT 4
-http://150.95.25.221:8000/ASTRO%20SPORT%204?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,LFC TV
-http://150.95.25.221:8000/LFC%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,MU TV
-http://150.95.25.221:8000/MU%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
-
-#EXTINF:-1,Minimax
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2250
-
-#EXTINF:-1,Pro Cinema
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/6150
-
-#EXTINF:-1,ANIMAL PLANET
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/9839
-
-#EXTINF:-1,BBC Earth
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/19910
 
 #EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
