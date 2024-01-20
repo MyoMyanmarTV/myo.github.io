@@ -254,11 +254,27 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_n
 #EXTINF:-1,Laliga 4
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
 
+#EXTINF:-1 ,BEIN SPORT LIVE 
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+
 #EXTINF:-1,Beinsport 1 Thailand 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
 
 #EXTINF:-1,Beinsport 2 Thailand 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts 
+
+#EXTINF:-1 ,True Sports
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 ,True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 ,Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 ,Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1,Play sports 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZeV9LiZVCky5Qnjao1Id_/ts
@@ -305,6 +321,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DJjCtl
 #EXTINF:-1,Arena Sport 9
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZQf7MNafHivHdj92L3NDG/ts
 
+#EXTINF:-1 ,TNT sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
 #EXTINF:-1,TNT Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_YtqEYl5yidOz18vs5ysp7/ts
 
@@ -347,6 +366,9 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1,Fox Sports 3 
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 
+#EXTINF:-1 ,Willow HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+
 #EXTINF:-1,WWE
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8es6yhiPYj7Qz1gx-JBqzB/ts
 
@@ -361,6 +383,12 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8dXLX2e
 
 #EXTINF:-1,TRT 3 SPOR
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8MAOWId5u2AsJRPqsLc7dl/ts
+
+#EXTINF:-1 ,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1 ,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 #EXTINF:-1,Start Sports 
 https://strm.yandex.ru/kal/start/start0.m3u8
