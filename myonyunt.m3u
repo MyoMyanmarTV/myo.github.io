@@ -122,20 +122,20 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1,Myanmar Speaker Movie 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
-#EXTINF:-1, Thu ku ma 1(သုခုမ၁)
+#EXTINF:-1, Thukuma1(သုခုမ၁)
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 
-#EXTINF:-1, Thu ku ma 2(သုခုမ၂)
+#EXTINF:-1, Thukuma2(သုခုမ၂)
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
-#EXTINF:-1, Myanmar Movie 1
-http://bananatv.org:25461/live/999333/999333/6549.ts
+#EXTINF:-1, MM Movie 1
+http://bananatv.org:25461/live/99777/99777/6549.ts
 
-#EXTINF:-1, Myanmar Movie 2
+#EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 
-#EXTINF:-1, Myanmar Movie 3
-http://bananatv.org:25461/live/999333/999333/7142.ts
+#EXTINF:-1, MM Movie 3
+http://bananatv.org:25461/live/99777/99777/7142.ts
 
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
@@ -158,7 +158,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ
 #EXTINF:-1, HBO Family
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 
-#EXTINF:-1, Movies
+#EXTINF:-1,Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
 #EXTINF:-1,Rock Action Movie 
@@ -177,7 +177,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts
 
 #EXTINF:-1,series 1
-http://bananatv.org:25461/live/999333/999333/1279.ts
+http://bananatv.org:25461/live/99777/99777/1279.ts
 
 
 #EXTINF:-1,Canal+Action 
@@ -212,8 +212,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrWts0M2583hAiEzzTLJLSs/ts
 
 #EXTINF:-1,CGTN Documentry
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shujBZ8cgK2cmhYVWeZ_aIWI/ts
-
-
 
 #EXTINF:-1,Baby TV 
 http://37.48.101.149:7017/play/a01y/index.m3u8
