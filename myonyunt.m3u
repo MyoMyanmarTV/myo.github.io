@@ -110,6 +110,10 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1,Channel K 
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
 
+#EXTINF:-1,PPTV
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8 
+
+
 #EXTINF:-1,TVM 
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
