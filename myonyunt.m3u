@@ -137,11 +137,26 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 #EXTINF:-1, MM Movie 3
 http://bananatv.org:25461/live/99777/99777/7142.ts
 
+#EXTINF:-1,Skynet Dramar
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
+
+#EXTINF:-1,Canal+Action 
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
+
+#EXTINF:-1,Canal+ZATLENN
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
+
+#EXTINF:-1,Canal+MAEMADI
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
+
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
 
 #EXTINF:-1,Action Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts
+
+#EXTINF:-1, ASION Movies
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
 
 #EXTINF:-1,World Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
@@ -149,20 +164,17 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qg
 #EXTINF:-1,Action Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2_RyvsiDL0EdkpzB/ts
 
-#EXTINF:-1, ASION Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
-
 #EXTINF:-1,ASIAN Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
 
-#EXTINF:-1, HBO Family
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
+#EXTINF:-1,Rock Entertainment
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
 
-#EXTINF:-1,Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
+#EXTINF:-1,Kix
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8jDxuAOKBDAI8UIAbLro_-/ts
 
-#EXTINF:-1,Rock Action Movie 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts
+#EXTINF:-1,Celestial Classic Movie
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_dn06AitUOdpfZI5hJ30za/ts
 
 #EXTINF:-1,Hits
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
@@ -176,79 +188,38 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8
 #EXTINF:-1,zee Cinema 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts
 
-#EXTINF:-1,series 1
-http://bananatv.org:25461/live/99777/99777/1279.ts
+#EXTINF:-1, HBO Family
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 
+#EXTINF:-1,Movies
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
-#EXTINF:-1,Canal+Action 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
-
-#EXTINF:-1,Canal+ZATLENN
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
-
-#EXTINF:-1,Skynet Dramar
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
-
-#EXTINF:-1,Canal+MAEMADI
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
-
-#EXTINF:-1,Canal+PUTUTUE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
-
-#EXTINF:-1,Canal+CHATATE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
-
-#EXTINF:-1,CARTOIN Kids
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shk5ANkA5Ne8b1Gf5DdvYJY4/ts
-
-#EXTINF:-1,Baby TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shkUBc1TAv2_eXS1tftdedQw/ts
-
-#EXTINF:-1,Babyshark TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shupC_0qv8EPeIJWmcHf3UKI/ts
-
-#EXTINF:-1,Cbeebies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrWts0M2583hAiEzzTLJLSs/ts
-
-#EXTINF:-1,CGTN Documentry
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shujBZ8cgK2cmhYVWeZ_aIWI/ts
-
-#EXTINF:-1,Baby TV 
-http://37.48.101.149:7017/play/a01y/index.m3u8
-
-#EXTINF:-1,CN Cartoon 
-https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
-
-#EXTINF:-1,Boomerang 
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
-
-#EXTINF:-1,CartoonNetowrk 
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-
-#EXTINF:-1,WB Cartoon 
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-
-
-#EXTINF:-1,Rock Entertainment
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
+#EXTINF:-1,Rock Action Movie 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts
 
 #EXTINF:-1. AXN
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lCtu1SJ2EuirOc_xC2iFq/ts
 
-#EXTINF:-1,Kix
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8jDxuAOKBDAI8UIAbLro_-/ts
-
-#EXTINF:-1,Celestial Classic Movie
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_dn06AitUOdpfZI5hJ30za/ts
-
 #EXTINF:-1,Celestial Movies
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Mx3_OssukpAA1pcdsiSiq/ts
 
-#EXTINF:-1,&prive Movie
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x85BIHiNMXIJascndcUxtP3/ts
-
 EXTINF:-1, HBO MOVIE
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shshL-H9N10TdsdWpX-Qg4nM/ts
+
+#EXTINF:-1,HBO 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
+
+#EXTINF:-1,HBO 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8BVrsOqJYj1vYT_bdvul_T/ts
+
+#EXTINF:-1,HBO Europe
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wSDjt6vCukIYyNz6M/ts
+
+#EXTINF:-1,HBO Family
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
+
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
 
 #EXTINF:-1,HBO
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvmdgqVXqZbpRkV4KuT5fE8/ts
@@ -274,15 +245,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 #EXTINF:-1,Cinemax 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiFjX1iYOl_JMGRY_RThyTU/ts
 
-#EXTINF:-1,&Privé HD1
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjbtmB1dH3kl1xzvdaHKqt4/ts
-
-#EXTINF:-1,Star Movies HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhT2YGvDWJC-pwIhyQ0FJL0/ts
-
-#EXTINF:-1,&flix HD2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts
-
 #EXTINF:-1,Filmbox Family
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsNXe0eXkHcE-6NeJAytvo0/ts
 
@@ -307,14 +269,11 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shm7UBit1Oq-RpDSwAs46Hok/ts
 #EXTINF:-1,Hits Now Astro
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq70OijsapAGjyeLQxGFVbc/ts
 
-#EXTINF:-1,Movies
+#EXTINF:-1, Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
 #EXTINF:-1,Movie Sphere
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrMvYDfqPjEbEbj4fTLtnkM/ts
-
-
-
 
 #EXTINF:-1,Cinemax
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9XZ3TzmQtUgnDknGAj2BX6/ts
@@ -325,23 +284,20 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-Wegspx
 #EXTINF:-1,Cinemax Europe
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-04_H3UhUeXAYJLJB5k9Up/ts
 
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
-
-#EXTINF:-1,HBO 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
-
-#EXTINF:-1,HBO 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8BVrsOqJYj1vYT_bdvul_T/ts
-
-#EXTINF:-1,HBO Europe
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wSDjt6vCukIYyNz6M/ts
-
-#EXTINF:-1,HBO Family
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
-
 #EXTINF:-1,INDIA MOVIE 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+
+#EXTINF:-1,&prive Movie
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x85BIHiNMXIJascndcUxtP3/ts
+
+#EXTINF:-1,&Priv HD1
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjbtmB1dH3kl1xzvdaHKqt4/ts
+
+#EXTINF:-1,Star Movies HD
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhT2YGvDWJC-pwIhyQ0FJL0/ts
+
+#EXTINF:-1,&flix HD2
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts
 
 #EXTINF:-1,Zee tv 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8 
@@ -385,6 +341,41 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:-1,Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1,Canal+PUTUTUE
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
+
+#EXTINF:-1,Canal+CHATATE
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
+
+#EXTINF:-1,CARTOIN Kids
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shk5ANkA5Ne8b1Gf5DdvYJY4/ts
+
+#EXTINF:-1,Baby TV
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shkUBc1TAv2_eXS1tftdedQw/ts
+
+#EXTINF:-1,Babyshark TV
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shupC_0qv8EPeIJWmcHf3UKI/ts
+
+#EXTINF:-1,Cbeebies
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrWts0M2583hAiEzzTLJLSs/ts
+
+#EXTINF:-1,CGTN Documentry
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shujBZ8cgK2cmhYVWeZ_aIWI/ts
+
+#EXTINF:-1,Baby TV 
+http://37.48.101.149:7017/play/a01y/index.m3u8
+
+#EXTINF:-1,CN Cartoon 
+https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
+
+#EXTINF:-1,Boomerang 
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+
+#EXTINF:-1,CartoonNetowrk 
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+
+#EXTINF:-1,WB Cartoon 
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1,Livetime On Play1
 http://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1705320532-0-0-adfce7e8bbb773599aa282078dff111d
@@ -400,7 +391,6 @@ http://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001705385679-0-0-b86cd
 
 #EXTINF:-1,Livetime On Play5
 http://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001705385742-0-0-2f12f3d9bd4c6f2de3bd2ad623f2a505
-
 
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
@@ -426,7 +416,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPh
 #EXTINF:-1,EPL 5 Skynet sport HD (Live)
 http://bananatv.org:25461/live/999333/999333/7143.ts
 
-
 #EXTINF:-1,EPL 5 Skynet sport.6 (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
 
@@ -435,7 +424,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8Dy_yVY
 
 #EXTINF:-1,V Sport (Live HD)
 http://bananatv.org:25461/live/999333/999333/6258.
-
 
 #EXTINF:-1,Eneven sport1 (Live HD)
 http://bananatv.org:25461/live/999333/999333/640.ts
