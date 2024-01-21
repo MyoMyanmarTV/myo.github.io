@@ -194,6 +194,10 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1,Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
+
+
 #EXTINF:-1,Rock Action Movie 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts
 
@@ -206,6 +210,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Mx3_Os
 EXTINF:-1, HBO MOVIE
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shshL-H9N10TdsdWpX-Qg4nM/ts
 
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
+
 #EXTINF:-1,HBO 2
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
 
@@ -217,9 +224,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wS
 
 #EXTINF:-1,HBO Family
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
-
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
 
 #EXTINF:-1,HBO
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvmdgqVXqZbpRkV4KuT5fE8/ts
@@ -377,21 +381,6 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1,Livetime On Play1
-http://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1705320532-0-0-adfce7e8bbb773599aa282078dff111d
-
-#EXTINF:-1,Livetime On Play2
-http://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1705332292-0-0-7aa2229f4b7cca77b3f10c0b77ddf530
-
-#EXTINF:-1,Livetime On Play3
-http://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001705249168-0-0-04e3bb8a45fc79dc70c7449aebdcf722
-
-#EXTINF:-1,Livetime On Play4
-http://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001705385679-0-0-b86cd1b98576f71ae8eb4acbb845efdd
-
-#EXTINF:-1,Livetime On Play5
-http://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001705385742-0-0-2f12f3d9bd4c6f2de3bd2ad623f2a505
-
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
 
@@ -446,21 +435,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_n
 #EXTINF:-1,Laliga 4
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
 
-#EXTINF:-1 ,BEIN SPORT LIVE 
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-
-#EXTINF:-1,Beinsport 1 Thailand 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyUvQke9BJ1wkNFr_oqkSTA/ts
-
-#EXTINF:-1,Beinsport 2 Thailand 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly-KVjEzjjqseFEdzQm8dfs/ts 
-
-#EXTINF:-1 ,True Sports
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1 ,True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
@@ -526,7 +500,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_erwDN9
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8sNFoUGvfY6agwuGgcvjYA/ts
 
 #EXTINF:-1,TNT Sport 4
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-V9vW5LAQZz-NziYWcZ2ep/ts
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-V9vW5LAQZz-NziYWcZ2ep/t
 
 #EXTINF:-1,TEN 1 (SONY LIV)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9JGmMJUm5WznC085NBIo9R/ts
@@ -546,17 +520,14 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ObNuRh
 #EXTINF:-1,###B@in sport 1###
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
 
-
 #EXTINF:-1,###B@inSports 2###
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
-
 
 #EXTINF:-1,###B@in Sports 3###
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 
 #EXTINF:-1,###B@in Sports 4###
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
-
 
 #EXTINF:-1, B@in Sport 5
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
