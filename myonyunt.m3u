@@ -92,10 +92,10 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1,Myanmar Speaker Movie 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5M3ylZGyNU_HaaHsCb2_uE/
 
-#EXTINF:-1, Thukuma1(သုခုမ၁)
+#EXTINF:-1, Thukuma(1)
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 
-#EXTINF:-1, Thukuma2(သုခုမ၂)
+#EXTINF:-1, Thukuma(2)
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
 #EXTINF:-1, MM Movie 1
@@ -164,10 +164,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1,Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
-
-
 #EXTINF:-1,Rock Action Movie 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts
 
@@ -176,6 +172,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lCtu1S
 
 #EXTINF:-1,Celestial Movies
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Mx3_OssukpAA1pcdsiSiq/ts
+
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
 
 EXTINF:-1, HBO MOVIE
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shshL-H9N10TdsdWpX-Qg4nM/ts
