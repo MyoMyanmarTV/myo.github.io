@@ -32,10 +32,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq8PdCBWJc2ZGIopgR470O0/ts
 #EXTINF:-1,MITV
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpKMp7khAAWPf7nTlYFaLoo/ts
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89076243760.jpg "group-title="Myanmar channel ",Mrtv4
-#EXTVLCOPT:http-referrer=
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsa74THFHcxrnCf7QBj7AF8/ts
-
 #EXTINF:-1,MRTV-4 HD
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsa74THFHcxrnCf7QBj7AF8/ts
 
