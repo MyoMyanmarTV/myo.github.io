@@ -207,6 +207,9 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1,HBO HIts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
 
+#EXTINF:-1,WB TV
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB7jEolujpPtM6Yv2/ts
+
 #EXTINF:-1,Cinemax Europe
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq1jQrSujJw4qsShL-yMCKc/ts
 
@@ -682,9 +685,6 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1,TRT YILDIZ HD
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_VaJdcwjrdP3lylKyMPvf2/ts
-
-#EXTINF:-1,WB TV
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB7jEolujpPtM6Yv2/ts
 
 #EXTINF:-1,TV4 Motor
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV180nE-tmQY1FbDJ/ts
