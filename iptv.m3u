@@ -630,6 +630,40 @@ http://208.86.19.13:81/103.stream/index.m3u8
 #EXTINF:-1,sport Live 1 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
+NF:-1 ,Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 ,Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1 ,True Sports 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 ,True Sports 2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 ,True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 ,TNT sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
+EXTINF:-1# ,Star sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 ,Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1 ,Sony Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 ,ASTRO SUPER SPORTS
+https://mlb.mrgamingstreams.com/astro.m3u8
+
+#EXTINF:-1 ,SSC SPORTS
+https://af.ayassport.ir/hls2/ssc1.m3u8?fbclid=IwAR2f1k1p1kaWl402HN-HbpvWto_SWsUSvcWltvtPBtSqmdD9Bh2MxbtJ7No
+
+
 #EXTINF:-1, UEFA Live 1
 http://bananatv.org:25461/live/99551/99551/6469.ts
 
@@ -690,42 +724,7 @@ https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transc
 
 #EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
-RAW Paste Data
-
-#EXTINF:-1 ,Via Play Sports 1
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 ,Via Play Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1 ,True Sports 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1 ,True Sports 2
-https://edge2.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1 ,True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1 ,TNT sport
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-
-EXTINF:-1# ,Star sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1 ,Star Sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-#EXTINF:-1 ,Sony Ten 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 ,ASTRO SUPER SPORTS
-https://mlb.mrgamingstreams.com/astro.m3u8
-
-#EXTINF:-1 ,SSC SPORTS
-https://af.ayassport.ir/hls2/ssc1.m3u8?fbclid=IwAR2f1k1p1kaWl402HN-HbpvWto_SWsUSvcWltvtPBtSqmdD9Bh2MxbtJ7No
-
-
+RAW Paste 
 
 
 
