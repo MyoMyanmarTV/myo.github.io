@@ -276,7 +276,7 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8 
 
 #EXTINF:-1, Zee cinena
-http://bananatv.org:25461/live/99555/99555/126.ts
+http://bananatv.org:25461/live/@9995/@9995/126.ts
 
 #EXTINF:-1,&tv 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
@@ -374,8 +374,11 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5H
 #EXTINF:-1,EPL 5 SD For Slow Network
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
 
+#EXTINF:-1,EPL 5 Skynet sport SD (Live)
+http://bananatv.org:25461/live/@9994/@9994/652.ts
+
 #EXTINF:-1,EPL 5 Skynet sport HD (Live)
-http://bananatv.org:25461/live/99555/99555/7143.ts
+http://bananatv.org:25461/live/@9994/@9994/7143.ts
 
 #EXTINF:-1,EPL 5 Skynet sport.6 (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
@@ -384,10 +387,10 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97Jnjz
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8Dy_yVY-7dRMxVk6zi5har/ts
 
 #EXTINF:-1,V Sport (Live HD)
-http://bananatv.org:25461/live/99555/99555/6258.
+http://bananatv.org:25461/live/@9994/@9994/6258.
 
 #EXTINF:-1,Eneven sport1 (Live HD)
-http://bananatv.org:25461/live/99555/99555/640.ts
+http://bananatv.org:25461/live/@9993/@9993/640.ts
 
 #EXTINF:-1,EPL 6 Highlight
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9E02BLhxh45bCLqMTKqFnL/ts
@@ -490,29 +493,28 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-srcrPa
 
 #EXTINF:-1,TEN 5 (SONY LIV)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ObNuRh6Yng49WaE9rtSXo/ts
-
-#EXTINF:-1,###B@in sport 1###
+EXTINF:-1, B@inSports 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
 
-#EXTINF:-1,###B@inSports 2###
+#EXTINF:-1,B@inSports 2
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
 
-#EXTINF:-1,###B@in Sports 3###
+#EXTINF:-1,B@in Sports 3
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 
-#EXTINF:-1,###B@in Sports 4###
+#EXTINF:-1,B@in Sports 4
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
 
 #EXTINF:-1, B@in Sport 5
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 
-#EXTINF:-1,###B@in Sport 6###
+#EXTINF:-1,B@in Sport 6
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 
-#EXTINF:-1,###B@in Sport 7###
+#EXTINF:-1,B@in Sport 7
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
 
-#EXTINF:-1,###B@in Sport 8###
+#EXTINF:-1,B@in Sport 8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 
 #EXTINF:-1,WWE FightSport
@@ -667,16 +669,16 @@ https://af.ayassport.ir/hls2/ssc1.m3u8?fbclid=IwAR2f1k1p1kaWl402HN-HbpvWto_SWsUS
 
 
 #EXTINF:-1, UEFA Live 1
-http://bananatv.org:25461/live/99551/99551/6469.ts
+http://bananatv.org:25461/live/@9992/@9992/6469.ts
 
 #EXTINF:-1, UEFA Live 2
-http://bananatv.org:25461/live/99551/99551/6471.ts
+http://bananatv.org:25461/live/@9993/@9993/6471.ts
 
 #EXTINF:-1, UEFA Live 3
-http://bananatv.org:25461/live/99551/99551/6472.ts
+http://bananatv.org:25461/live/@9995/@9995/6472.ts
 
 #EXTINF:-1, UEFA Live 4
-http://bananatv.org:25461/live/99551/99551/6473.ts
+http://bananatv.org:25461/live/@9994/@9994/6473.ts
 
 
 #EXTINF:-1,CCTV 5 
