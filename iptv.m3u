@@ -96,13 +96,13 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
 #EXTINF:-1, MM Movie 1
-http://bananatv.org:25461/live/99555/99555/6549.ts
+http://bananatv.org:25461/live/@9995/@9995/6549.ts
 
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 
 #EXTINF:-1, MM Movie 3
-http://bananatv.org:25461/live/99555/99555/7142.ts
+http://bananatv.org:25461/live/@9994/@9994/7142.ts
 
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
@@ -375,10 +375,10 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5H
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
 
 #EXTINF:-1,EPL 5 Skynet sport SD (Live)
-http://bananatv.org:25461/live/@9994/@9994/652.ts
+http://bananatv.org:25461/live/@9995/@9995/652.ts
 
 #EXTINF:-1,EPL 5 Skynet sport HD (Live)
-http://bananatv.org:25461/live/@9994/@9994/7143.ts
+http://bananatv.org:25461/live/@9995/@9995/7143.ts
 
 #EXTINF:-1,EPL 5 Skynet sport.6 (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
