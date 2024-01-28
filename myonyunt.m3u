@@ -674,6 +674,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXziz
 #EXTINF:-1,Discovery Asia
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
 
+#EXTINF:-1,cctv1
+http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
+
 #EXTINF:-1, Hollo
 https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
 
