@@ -93,7 +93,7 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
 #EXTINF:-1, MM Movie 1
-http://bananatv.org:25461/live/@9995/@9995/6549.ts
+http://bananatv.org:25461/live/@5551/@5551/6549.ts
 
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
@@ -270,7 +270,7 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8 
 
 #EXTINF:-1, Zee cinena
-http://bananatv.org:25461/live/@9994/@9994/126.ts
+http://bananatv.org:25461/live/@5551/@5551/126.ts
 
 #EXTINF:-1,&tv 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
@@ -371,10 +371,10 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5H
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
 
 #EXTINF:-1,EPL 5 Skynet sport HD (Live)
-http://bananatv.org:25461/live/@9993/@9993/7143.ts
+http://bananatv.org:25461/live/@5551/@5551/7143.ts
 
 #EXTINF:-1,EPL 5 Skynet sport SD (Live)
-http://bananatv.org:25461/live/@9993/@9993/652.ts
+http://bananatv.org:25461/live/@5551/@5551/652.ts
 
 #EXTINF:-1,EPL 5 Skynet sport.6 (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
@@ -401,10 +401,10 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_n
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
 
 #EXTINF:-1,V Sport (Live HD)
-http://bananatv.org:25461/live/@9995/@9995/6258.
+http://bananatv.org:25461/live/@5551/@5551/6258.
 
 #EXTINF:-1,Eneven sport1 (Live HD)
-http://bananatv.org:25461/live/@9995/@9995/640.ts
+http://bananatv.org:25461/live/@5551/@5551/640.ts
 
 #EXTINF:-1 ,Via Play Sports 
 https://dazc.mrgamingstreams.xyz/dazcbarca.m3u8
@@ -632,16 +632,16 @@ http://208.86.19.13:81/103.stream/index.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1, UEFA Live 1
-http://bananatv.org:25461/live/@9994/@9994/6469.ts
+http://bananatv.org:25461/live/@5551/@5551/6469.ts
 
 #EXTINF:-1, UEFA Live 2
-http://bananatv.org:25461/live/@9993/@9993/6471.ts
+http://bananatv.org:25461/live/@5551/@5551/6471.ts
 
 #EXTINF:-1, UEFA Live 3
-http://bananatv.org:25461/live/@9992/@9992/6472.ts
+http://bananatv.org:25461/live/@5551/@5551/6472.ts
 
 #EXTINF:-1, UEFA Live 4
-http://bananatv.org:25461/live/@9995/@9995/6473.ts
+http://bananatv.org:25461/live/@5551/@5551/6473.ts
 
 
 #EXTINF:-1,CCTV 5 
