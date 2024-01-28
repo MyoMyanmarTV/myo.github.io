@@ -38,6 +38,9 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsa74THFHcxrnCf7QBj7AF8/ts
 #EXTINF:-1,Mrtv-4 SD
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsg1Jn7UFQYV-fvSKrhreo4/ts
 
+#EXTINF:-1,Mrtv-4 phonepyae
+https://pp-live.b-cdn.net/bcdn_token=v-mkBo1u8rdGOwXvy-gUn0AqTJbf51VCZ6aNdJRkLAQ&expires=1706445935&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037000004974.ts
+
 #EXTINF:-1,Channel7 HD
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvyTO1ru4O_g0V8OPDlZ5Qg/ts
 
