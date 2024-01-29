@@ -101,9 +101,6 @@ http://bananatv.org:25461/live/@5551/@5551/6549.ts
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 
-#EXTINF:-1, MM Movie 3
-https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
-
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
 
@@ -350,7 +347,7 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-
+#EXTINF:-1, ####### SPORT #######
 
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
@@ -646,6 +643,8 @@ http://bananatv.org:25461/live/@5551/@5551/6472.ts
 #EXTINF:-1, UEFA Live 4
 http://bananatv.org:25461/live/@5551/@5551/6473.ts
 
+#EXTINF:-1,cctv1
+http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
 
 #EXTINF:-1,CCTV 5 
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -674,30 +673,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXziz
 #EXTINF:-1,Discovery Asia
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
 
-#EXTINF:-1,cctv1
-http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
 
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn--P7mYXNiB5VOMG4ES1Ymcc5Klk4/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-wmWz5AWN6ke6rLevBYjfv2hwxO8/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-5BO7_6wmyViOqwDjbrZPblwGc6Y/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698b-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-xAqSk9W-_xaWwV8BuPHy5TrzL-s/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698a-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
-RAW Paste Data
 
 
 
