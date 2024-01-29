@@ -350,6 +350,9 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
+#EXTINF:-1,Animax MM
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
+
 #EXTINF:-1, MUSIC
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_27V1T-uibEZidCpUPSjDC/ts
 
@@ -696,9 +699,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV
 #EXTINF:-1,Animal Planet
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
 
-#EXTINF:-1,Animax MM
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
-
 #EXTINF:-1,Love Nature
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_6iDoZHgeJxchJ5shNDG_4/ts
 
@@ -708,27 +708,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXziz
 #EXTINF:-1,Discovery Asia
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
 
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn--P7mYXNiB5VOMG4ES1Ymcc5Klk4/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-wmWz5AWN6ke6rLevBYjfv2hwxO8/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-5BO7_6wmyViOqwDjbrZPblwGc6Y/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698b-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-xAqSk9W-_xaWwV8BuPHy5TrzL-s/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698a-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697c-popsthai/index-f2-v1-a1.m3u8
-
-#EXTINF:-1, Hollo
-https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
-RAW Paste 
 
 
 
