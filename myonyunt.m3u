@@ -1,4 +1,7 @@
 #EXTIM3U
+#EXTINF:-1, ####### BURMAR CHANNAL #######
+http://bananatv.org:25461/play
+
 #EXTINF:-1, Buddha
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhTL1pKt9bmdmoq7v13jPnI/ts
 
@@ -308,6 +311,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1, MUSIC 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_27V1T-uibEZidCpUPSjDC/ts
 
+#EXTINF:-1, ####### CARTOIN CHANNAL #######
+http://bananatv.org:25461/play
+
 #EXTINF:-1,Canal+PUTUTUE
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
 
@@ -347,7 +353,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1,Animax MM
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
 
-#EXTINF:-1, ####### SPORT #######
+#EXTINF:-1, ####### SPORT CHANNAL #######
 http://bananatv.org:25461/play
 
 #EXTINF:-1, CANAL+Sport 1
@@ -661,6 +667,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB
 
 #EXTINF:-1,TV4 Motor
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV180nE-tmQY1FbDJ/ts
+
+#EXTINF:-1, ####### DISCOVER CHANNAL #######
+http://bananatv.org:25461/play
 
 #EXTINF:-1,Animal Planet
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
