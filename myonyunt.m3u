@@ -96,10 +96,13 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
 #EXTINF:-1, MM Movie 1
-http://bananatv.org:25461/live/@8881/@8881/6549.ts
+http://bananatv.org:25461/live/@8885/@8885/6549.ts
 
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
+
+#EXTINF:-1, MM Movie 3
+http://bananatv.org:25461/live/@8885/@8885/7142.
 
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
@@ -381,7 +384,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5H
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
 
 #EXTINF:-1,EPL 5 Skynet sport HD (Live)
-http://bananatv.org:25461/live/@8881/@8881/7143.ts
+http://bananatv.org:25461/live/@8885/@8885/7143.ts
 
 #EXTINF:-1,EPL 5 Skynet sport SD (Live)
 http://bananatv.org:25461/live/@8881/@8881/652.ts
@@ -413,8 +416,23 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGn
 #EXTINF:-1,V Sport (Live HD)
 http://bananatv.org:25461/live/@8881/@8881/6258.
 
-#EXTINF:-1,Eneven sport1 (Live HD)
+#EXTINF:-1,Eneven sport 1 (Live HD)
 http://bananatv.org:25461/live/@8881/@8881/640.ts
+
+#EXTINF:-1,Eneven sport 2 (Live HD)
+http://bananatv.org:25461/live/@8881/@8881/641.ts
+
+#EXTINF:-1,Eneven sport 3 (Live HD)
+http://bananatv.org:25461/live/@8881/@8881/642.ts
+
+#EXTINF:-1,Eneven sport 4 (Live HD)
+http://bananatv.org:25461/live/@8881/@8881/659.ts
+
+#EXTINF:-1,Eneven sport 5 (Live HD)
+http://bananatv.org:25461/live/@8881/@8881/601.ts
+
+#EXTINF:-1,Eneven sport 6 (Live HD)
+http://bananatv.org:25461/live/@8885/@8885/7042.ts
 
 #EXTINF:-1 ,Via Play Sports 
 https://dazc.mrgamingstreams.xyz/dazcbarca.m3u8
