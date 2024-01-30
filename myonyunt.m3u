@@ -348,6 +348,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
 
 #EXTINF:-1, ####### SPORT #######
+http://bananatv.org:25461/play
 
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
@@ -355,7 +356,7 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF
 #EXTINF:-1, CANAL+Sport 2
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
 
-#EXTINF:-1, Sport
+#EXTINF:-1, ASIAN CUP Sport Liv
 http://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1,EPL 1
