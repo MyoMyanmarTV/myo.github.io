@@ -2,9 +2,6 @@
 #EXTINF:-1, Buddha
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhTL1pKt9bmdmoq7v13jPnI/ts
 
-#EXTINF:-1, sport
-http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaNs0b2VFA6aKZDkNxian_Rs/
-
 #EXTINF:-1, Mahar Bawdi
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shp41fpRDDOSCBedgyN7Nca0/ts
 
@@ -347,6 +344,9 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
+#EXTINF:-1,Animax MM
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
+
 #EXTINF:-1, ####### SPORT #######
 
 #EXTINF:-1, CANAL+Sport 1
@@ -354,6 +354,9 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF
 
 #EXTINF:-1, CANAL+Sport 2
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
+
+#EXTINF:-1, Sport
+http://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1,EPL 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x92Pmv8vLbRSFeTtp9qGJ83/ts
@@ -660,9 +663,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV
 
 #EXTINF:-1,Animal Planet
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
-
-#EXTINF:-1,Animax MM
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
 
 #EXTINF:-1,Love Nature
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_6iDoZHgeJxchJ5shNDG_4/ts
