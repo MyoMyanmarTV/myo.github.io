@@ -360,6 +360,12 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67b
 http://bananatv.org:25461/play
 
 #EXTINF:-1, CANAL+Sport 1
+http://bananatv.org:25461/live/@8885/@8885/348.ts
+
+#EXTINF:-1, CANAL+Sport 2
+http://bananatv.org:25461/live/@8885/@8885/35.ts
+
+#EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
 
 #EXTINF:-1, CANAL+Sport 2
