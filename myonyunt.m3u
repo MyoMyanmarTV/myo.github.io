@@ -96,23 +96,23 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
 
 #EXTINF:-1, MM Movie 1
-http://bananatv.org:25461/live/@8885/@8885/6549.ts
+http://bananatv.org:25461/live/311241/311241/6549.ts
 
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 
 
 #EXTINF:-1,* Skynet Dramar *
-http://bananatv.org:25461/live/@8885/@8885/1279.ts
+http://bananatv.org:25461/live/311241/311241/1279.ts
 
 #EXTINF:-1,* Canal+Action *
-http://bananatv.org:25461/live/@8885/@8885/1277.ts
+http://bananatv.org:25461/live/311241/311241/1277.ts
 
 #EXTINF:-1, * Canal+ZATLENN *
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
 
 #EXTINF:-1, * Canal+MAEMADI *
-http://bananatv.org:25461/live/@8885/@8885/1280.ts
+http://bananatv.org:25461/live/311241/311241/1280.ts
 
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsBWIaPuBZPgViWgNi_PA6k/ts
@@ -343,10 +343,10 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67b
 http://bananatv.org:25461/play
 
 #EXTINF:-1, CANAL+Sport 1
-http://bananatv.org:25461/live/@8885/@8885/348.ts
+http://bananatv.org:25461/live/311241/311241/348.ts
 
 #EXTINF:-1, CANAL+Sport 2
-http://bananatv.org:25461/live/@8885/@8885/35.ts
+http://bananatv.org:25461/live/311241/311241/35.ts
 
 #EXTINF:-1, CANAL+Sport 1
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
