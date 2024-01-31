@@ -101,8 +101,18 @@ http://bananatv.org:25461/live/@8885/@8885/6549.ts
 #EXTINF:-1, MM Movie 2
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
 
-#EXTINF:-1, MM Movie 3
-http://bananatv.org:25461/live/@8885/@8885/7142.
+
+#EXTINF:-1,* Skynet Dramar *
+http://bananatv.org:25461/live/@8885/@8885/1279.ts
+
+#EXTINF:-1,* Canal+Action *
+http://bananatv.org:25461/live/@8885/@8885/1277.ts
+
+#EXTINF:-1, * Canal+ZATLENN *
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
+
+#EXTINF:-1, * Canal+MAEMADI *
+http://bananatv.org:25461/live/@8885/@8885/1280.ts
 
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
