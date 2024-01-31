@@ -117,15 +117,6 @@ http://bananatv.org:25461/live/@8885/@8885/1280.ts
 #EXTINF:-1,Skynet Dramar
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsBWIaPuBZPgViWgNi_PA6k/ts
 
-#EXTINF:-1,Canal+Action 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
-
-#EXTINF:-1,Canal+ZATLENN
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
-
-#EXTINF:-1,Canal+MAEMADI
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
-
 #EXTINF:-1,* World Movies *
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
 
@@ -143,24 +134,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2
 
 #EXTINF:-1,ASIAN Movies 
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
-
-#EXTINF:-1,Rock Entertainment
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
-
-#EXTINF:-1,Kix
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8jDxuAOKBDAI8UIAbLro_-/ts
-
-#EXTINF:-1,Celestial Classic Movie
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_dn06AitUOdpfZI5hJ30za/ts
-
-#EXTINF:-1,Hits
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
-
-#EXTINF:-1,Hits Movies
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_9Vd3WhYI1E8SNLc/ts
-
-#EXTINF:-1,Thrill
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
 
 #EXTINF:-1,zee Cinema 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts
