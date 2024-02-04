@@ -110,13 +110,13 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmgl
 #EXTINF:-1,  Canal+MAEMADI 
 http://bananatv.org:25461/live/311241/311241/1280.ts
 
-#EXTINF:-1,* World Movies *
+#EXTINF:-1, World Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
 
-#EXTINF:-1, * Action Movies *
+#EXTINF:-1,  Action Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts
 
-#EXTINF:-1,* ASION Movies *
+#EXTINF:-1, ASION Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
 
 #EXTINF:-1,Skynet Dramar
@@ -295,12 +295,6 @@ http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9E02BLh
 
 #EXTINF:-1,EPL 7
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9YAwbr8pP4Dsxi56NFyf4w/ts
-
-#EXTINF:-1,Laliga 1 HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-NIJZUzLKxjmlqVyH4UVnz/ts
-
-#EXTINF:-1,Laliga 2 HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
 
 #EXTINF:-1,Laliga 3 HD (Live)
 http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_nCSQBKfipEWGJ3wH/ts
