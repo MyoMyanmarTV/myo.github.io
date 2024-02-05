@@ -11,29 +11,8 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm2H7O-s
 #EXTINF:-1, MRTV HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mlahh_wVUHqb-XHctriNGEk/
 
-#EXTINF:-1,MWD HD
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MmrxOLph4ayZM53948AR-u1/ts
-
 #EXTINF:-1,MRTV News HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MklroeT4RqJn2wnJO-l829e/
-
-#EXTINF:-1,MWD Education
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgwy2gpxHW6czHUDeuaVMsM/ts
-
-#EXTINF:-1,MM EDU
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsPEk7oULSEQAe5_tzBJ8Tk/ts
-
-#EXTINF:-1,MRTV NRC
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sht-iFnppaq20Wh-g7aOLyG4/ts
-
-#EXTINF:-1,TVM
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjDa5dSV1ROlm5J6lwCxKZo/ts
-
-#EXTINF:-1,Light
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq8PdCBWJc2ZGIopgR470O0/ts
-
-#EXTINF:-1,MITV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpKMp7khAAWPf7nTlYFaLoo/ts
 
 #EXTINF:-1,MRTV-4 HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm4y0Ku63SYlfuSCRnfGZjO/t
@@ -59,9 +38,6 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MmUcmwMN
 #EXTINF:-1,HTV Sports
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MmYzlSwp1mpSuwv2eScx7Na/ts
 
-#EXTINF:-1,HTV
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnRs1u8rMTzPLLzYGOawEDj/t
-
 #EXTINF:-1,YTV
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnJwx04WZYF8gsuzBhs5gKi/ts
 
@@ -70,9 +46,6 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnHJu9Rj
 
 #EXTINF:-1,Channel 9
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkGryrcKVDm_iKVaSE12OlC/ts
-
-#EXTINF:-1,M Entertainment
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnszhBu4SD6aV0h0mU16eex/t
 
 #EXTINF:-1,5 Plus
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MniTtoI3dELAMgrcSgsAzKo/ts
@@ -86,14 +59,11 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1,TVM 
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1,GOLDENLAND 
-http://203.81.84.130/hls/mwd_document/index.m3u8
-
 #EXTINF:-1, Thukuma1
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mk2F98mvkjF__EDeD96sI-x/ts
 
 #EXTINF:-1, Thukuma2
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkFk3-lC1EysXNKeyM4oWjC/t
+http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkFk3-lC1EysXNKeyM4oWjC/ts
 
 #EXTINF:-1, MM Movie 1
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkSyzJ9yz0sXI3M8NrCr9tz/ts
