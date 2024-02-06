@@ -581,18 +581,6 @@ http://208.86.19.13:81/103.stream/index.m3u8
 #EXTINF:-1,sport Live 1 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1, UEFA Live 1
-http://bananatv.org:25461/live/@8881/@8881/6469.ts
-
-#EXTINF:-1, UEFA Live 2
-http://bananatv.org:25461/live/@8881/@8881/6471.ts
-
-#EXTINF:-1, UEFA Live 3
-http://bananatv.org:25461/live/@8881/@8881/6472.ts
-
-#EXTINF:-1, UEFA Live 4
-http://bananatv.org:25461/live/@8881/@8881/6473.ts
-
 #EXTINF:-1,cctv1
 http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
 
