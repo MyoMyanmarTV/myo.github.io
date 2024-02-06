@@ -200,6 +200,9 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq70OijsapAGjyeLQxGFVbc/ts
 #EXTINF:-1, Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
 
+#EXTINF:-1,Movies-1 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1,Movie Sphere
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrMvYDfqPjEbEbj4fTLtnkM/ts
 
@@ -509,12 +512,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuPCajLPHbEAZmor3zMfXPo/ts
 #EXTINF:-1,Arena E-SPORT
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpH9GwuDzEiuR7hdbzkYDiQ/ts
 
-#EXTINF:-1,UFC TEST EVENT
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vY5OzBfNBSiJufgBSBPMq/ts
-
-#EXTINF:-1,Fight Box
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9i9ZAWhorngPC1rTdekg5s/ts
-
 #EXTINF:-1,FoxSport 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
@@ -523,24 +520,6 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1,Fox Sports 3 
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-
-#EXTINF:-1 ,Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
-#EXTINF:-1,WWE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8es6yhiPYj7Qz1gx-JBqzB/ts
-
-#EXTINF:-1,A SPOR HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ieOK9zSg9K5dOdAzXjqrt/ts
-
-#EXTINF:-1,S Sport TR
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9wpUsekGdMLhkpork6KdcW/ts
-
-#EXTINF:-1,S Sport 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8dXLX2eUNs6wWxZxQkGi19/ts
-
-#EXTINF:-1,TRT 3 SPOR
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8MAOWId5u2AsJRPqsLc7dl/ts
 
 #EXTINF:-1 ,Star Sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
@@ -578,20 +557,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1,FOX WWW SPORTS 
 http://208.86.19.13:81/103.stream/index.m3u8
 
-#EXTINF:-1,sport Live 1 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1,cctv1
-http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
-
 #EXTINF:-1,CCTV 5 
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1,TRT YILDIZ HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_VaJdcwjrdP3lylKyMPvf2/ts
-
-#EXTINF:-1,WB TV
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB7jEolujpPtM6Yv2/ts
 
 
 
