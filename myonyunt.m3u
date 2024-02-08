@@ -51,7 +51,7 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkGryrcK
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MniTtoI3dELAMgrcSgsAzKo/ts
 
 #EXTINF:-1,Mahar HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgNtNkRz6j-94PiXGi7pk-M/ts
+http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm34-_putHB4Xj7DjgxPwhg/t
 
 #EXTINF:-1,Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
@@ -89,20 +89,11 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm_AawWn
 #EXTINF:-1, ASION Movies 
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MlqOeDOEqVUx8NqvSzjyOkp/ts
 
-#EXTINF:-1,Skynet Dramar
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mml4imGRPUrWAP1mc5wS4gY/ts
-
-#EXTINF:-1,zee Cinema 
-http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkJouAAl3uzkpdKeHuQ6W4N/ts
-
 #EXTINF:-1,Rock Action Movie 
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MncUk4iaoXAGrt28HfJgiOe/
 
-#EXTINF:-1,Action Hollywood Movies 
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 ,Hollywood HD
-http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1,Skynet Dramar
+http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mml4imGRPUrWAP1mc5wS4gY/ts
 
 #EXTINF:-1,Hits
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MlehTDUjuZWNBA3Y_KXeLVy/ts
@@ -113,7 +104,16 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MlUHHRlt
 #EXTINF:-1,Hits Movies
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mmf4x6MJ1wvN1lR0ACfk72a/ts
 
-#EXTINF:-1,HBO Europe
+#EXTINF:-1,zee Cinema 
+http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkJouAAl3uzkpdKeHuQ6W4N/ts
+
+#EXTINF:-1,Action Hollywood Movies 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 ,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+#EXTINF:-1,HBO 
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkoaMi_vs0S7rRyVP9OPIZR/ts
 
 #EXTINF:-1, HBO MOVIE
