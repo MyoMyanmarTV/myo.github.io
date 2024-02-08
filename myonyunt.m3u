@@ -240,6 +240,9 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 http://bananatv.org:25461/play
 
 #EXTINF:-1,SKYNET SPORT-6
+http://ns5025893.ip-15-235-212.net:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
+
+#EXTINF:-1,SKYNET SPORT-6
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
 
 #EXTINF:-1,SKYNET SPORT HD
