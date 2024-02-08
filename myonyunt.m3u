@@ -59,6 +59,12 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1,TVM 
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
+#EXTINF:-1,MSc Movies
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1,Myanmar music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1, Thukuma1
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mk2F98mvkjF__EDeD96sI-x/ts
 
