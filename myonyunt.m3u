@@ -242,7 +242,7 @@ http://bananatv.org:25461/play
 #EXTINF:-1,SKYNET SPORT HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
 
-EXTINF:-1,SKYNET SPORT 6
+#EXTINF:-1,SKYNET SPORT 6
 thttp://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Ml1b4LPELEVo3KA3dZJH-Cn/ts
 
 #EXTINF:-1,Football 1
@@ -342,14 +342,8 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjZx2x8I7Bka8cGJH7Yumsg/ts
 #EXTINF:-1,Sport TV HD
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shlMXEW-bdumd2NcSvK6QTJE/ts
 
-#EXTINF:-1,CANAL+SPORT 1Live
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
-
 #EXTINF:-1,Man U TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-
-#EXTINF:-1,Mahar E-sports
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvCEulcoxuBUku6iHGVW_Dk/ts
 
 #EXTINF:-1,Ginx Esports DE
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuPCajLPHbEAZmor3zMfXPo/ts
