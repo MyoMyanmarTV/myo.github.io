@@ -239,10 +239,10 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1, #### SPORT ####
 http://bananatv.org:25461/play
 
-#EXTINF:-1,SKYNET SPORT HD
+#EXTINF:-1,SKYNET SPORT-6
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
 
-#EXTINF:-1,SKYNET SPORT 6
+#EXTINF:-1,SKYNET SPORT HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Ml1b4LPELEVo3KA3dZJH-Cn/ts
 
 #EXTINF:-1,Football 1
