@@ -26,6 +26,12 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MlILZsLg
 #EXTINF:-1,Channel7
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnpKt7Vr5EfodtLGe87x4F0/
 
+#EXTINF:-1,Channel7 SD
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
+#EXTINF:-1,Channel7 HD
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
+
 #EXTINF:-1,Channel K HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mmg5SePTzv3ESB8O1L_31Ve/ts
 
