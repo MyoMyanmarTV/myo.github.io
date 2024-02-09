@@ -1,7 +1,4 @@
 #EXTIM3U
-#EXTINF:-1, ### MYANMAR ###
-http://bananatv.org:25461/play
-
 #EXTINF:-1, Buddha
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Ml-xdeePRV5WywZf2agXj9Q/
 
@@ -329,33 +326,6 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 
 #EXTINF:-1, Eleven sport 3
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-
-#EXTINF:-1,WWE FightSport
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvlwgh_lkyiL7mS_ECY2JWA/ts
-
-#EXTINF:-1,A SPOR HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmW7qg_e15XJ2sCa0gDXCXs/ts
-
-#EXTINF:-1,S Sport TR
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjenZPxOEnYBk4p9L0YCS6k/ts
-
-#EXTINF:-1,S Sport 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjTRrs4ZjkoTxv9zxhnVSHg/ts
-
-#EXTINF:-1,TRT 3 SPORT
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjQoTlfQWfew4ZDa23SWLzs/ts
-
-#EXTINF:-1,TRT YILDIZ HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgEsigbVIM8sfUsr822Pgio/ts
-
-#EXTINF:-1,Eurosport 1
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiV7K0MU3mFTM5so76VPwYg/ts
-
-#EXTINF:-1,Eurosport 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjZx2x8I7Bka8cGJH7Yumsg/ts
-
-#EXTINF:-1,Sport TV HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shlMXEW-bdumd2NcSvK6QTJE/ts
 
 #EXTINF:-1,Man U TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
