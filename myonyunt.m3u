@@ -5,11 +5,20 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Ml-xdeeP
 #EXTINF:-1, Mahar Bawdi
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm2H7O-sCxI2mvMs9FTgGDy/ts
 
+#EXTINF:-1, Mahar Bawdi
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
 #EXTINF:-1, MRTV HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mlahh_wVUHqb-XHctriNGEk/
 
-#EXTINF:-1,MRTV News HD
+#EXTINF:-1, MRTV HD
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+
+#EXTINF:-1,MRTV News 
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MklroeT4RqJn2wnJO-l829e/
+
+#EXTINF:-1,Mrtv Entertainment 
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
 
 #EXTINF:-1,MRTV-4 HD
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
@@ -38,6 +47,9 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1,Fortune HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MmUcmwMNKOao-0fqhYWbT6b/ts
 
+#EXTINF:-1,Fortune HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
 #EXTINF:-1,HTV Sports
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MmYzlSwp1mpSuwv2eScx7Na/ts
 
@@ -47,14 +59,23 @@ http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnJwx04W
 #EXTINF:-1,MNTV HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MnHJu9RjT4NkBmzZmxmRSDN/ts
 
+#EXTINF:-1,MNTV HD
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
 #EXTINF:-1,Channel 9
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MkGryrcKVDm_iKVaSE12OlC/ts
 
 #EXTINF:-1,5 Plus
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-MniTtoI3dELAMgrcSgsAzKo/ts
 
+#EXTINF:-1,5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+
 #EXTINF:-1,Mahar HD
 http://bananatv.org:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm34-_putHB4Xj7DjgxPwhg/ts
+
+#EXTINF:-1,Mahar HD
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 
 #EXTINF:-1,Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
