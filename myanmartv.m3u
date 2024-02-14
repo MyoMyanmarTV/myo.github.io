@@ -1,1 +1,46 @@
+#EXTIM3U
+#EXTINF:-1, Mahar Bawdi
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1, MRTV HD
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+
+#EXTINF:-1,Mrtv Entertainment 
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
+
+#EXTINF:-1,MRTV-4 HD
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1,Channel7 SD
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
+#EXTINF:-1,Channel7 HD
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
+
+#EXTINF:-1,Channel K 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
+
+#EXTINF:-1,Fortune HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1,MNTV HD
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1,5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+
+#EXTINF:-1,Mahar HD
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+
+#EXTINF:-1,Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,MVM TV
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+
+#EXTINF:-1,MSC Movies
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1,Myanmar music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
