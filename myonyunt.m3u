@@ -107,8 +107,8 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1, #### SPORT ####
-http://bananatv.org:25461/play
+#EXTINF:-1, SPORT LIVE
+http://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1707997569-0-0-918dfa935f41df294fabba9a084dd10a
 
 #EXTINF:-1,Laliga 1 HD
 http://103.113.116.150:25461/mtm1/12345/47
