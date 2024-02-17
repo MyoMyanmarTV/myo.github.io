@@ -68,7 +68,19 @@ http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/133.ts
 #EXTINF:-1, IFRI CINE  Movies HD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/133.ts
 
-#EXTINF:-1,FOX FHD
+#EXTINF:-1, MOVIE SPHERE-1
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, MOVIE SPHERE-2
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, ION STERY MOVIE 
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, CIMESMAX
+http://64.31.40.14:14031/
+
+#EXTINF:-1,FOX 
 http://198.16.106.146:8000/play/mi601120/wTsKVXwqpGS/321251.ts?token=H0EMV0RQRl8UAwgABgEGDVVQVQEEBwIAUAVSCAYJAwZQAgJVBA1WVldDFRZAFkBdBw48WFASDVcHBlQNUhQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAALXVpIFEdRAEcMQwgCBFcAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBoudRcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYHFUoaDldbWhAMFmlHUQBHDEMIBwBUAhob
 
 #EXTINF:-1,FOX HD
@@ -314,6 +326,8 @@ http://208.86.19.13:81/103.stream/index.m3u8
 #EXTINF:-1,CCTV 5 
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
+#EXTINF:-1, WWE
+https://247b.mrgamingstreams.com/mrgamingwwenet.m3u8
 
 
 
