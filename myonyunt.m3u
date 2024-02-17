@@ -113,6 +113,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1, #### CARTON ####
 http://bananatv.org:25461/play
 
+#EXTINF:-1, IFRI BOING CARTOON
+http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/240.ts
+
+#EXTINF:-1, IFRI BOOMERANG CARTOON
+http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/206.ts
+
+#EXTINF:-1, IFRI CARTOON NETWORK
+http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/208.ts
+
+#EXTINF:-1, IFRI
+DISLEY CARTOON 
+http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/227.ts
+
+#EXTINF:-1, IFRI
+DISLEY+ CARTOON 
+http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/210.ts
+
+
 #EXTINF:-1,CN Cartoon 
 https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
 
@@ -128,26 +146,26 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1, SPORT LIVE
 http://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1707997569-0-0-918dfa935f41df294fabba9a084dd10a
 
-#EXTINF:-1,Laliga 1 HD
+#EXTINF:-1,Laliga 1 HD⚽
 http://103.113.116.150:25461/mtm1/12345/47
-#EXTINF:-1,Laliga 2 HD
+#EXTINF:-1,Laliga 2 HD⚽
 http://103.113.116.150:25461/mtm1/12345/48
-#EXTINF:-1,Laliga 3 HD
+#EXTINF:-1,Laliga 3 HD⚽
 http://103.113.116.150:25461/mtm1/12345/49
 
-#EXTINF:-1, CANAL+SPORT (1)
+#EXTINF:-1, CANAL+SPORT (1)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/46374.ts
 
-#EXTINF:-1, CANAL+SPORT (2)
+#EXTINF:-1, CANAL+SPORT (2)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65604.ts
 
-#EXTINF:-1, CANAL+SPORT (3)
+#EXTINF:-1, CANAL+SPORT (3)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65605.ts
 
-#EXTINF:-1, CANAL+SPORT (4)
+#EXTINF:-1, CANAL+SPORT (4)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65606.ts
 
-#EXTINF:-1, CANAL+SPORT (5)
+#EXTINF:-1, CANAL+SPORT (5)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65607.ts
 #EXTINF:-1, Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
