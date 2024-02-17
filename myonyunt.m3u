@@ -173,6 +173,12 @@ https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1,Via Play Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
 
+#EXTINF:-1, Setanta sport-1
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+
+#EXTINF:-1, Setanta sport-2
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
+
 #EXTINF:-1,sport-1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
