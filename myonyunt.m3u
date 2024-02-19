@@ -1,5 +1,5 @@
 #EXTIM3U
-#EXTINF:-1,###Burmes Channel### 
+#EXTINF:-1, BUDDHA
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhTL1pKt9bmdmoq7v13jPnI/ts 
 
 #EXTINF:-1,BAWDI 
@@ -25,30 +25,43 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sht-iFnppaq20Wh-g7aOLyG4/ts #E
 
 #EXTINF:-1,HTV 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnw-WHKAeZOML6IsP0QsSJs/ts 
+
 #EXTINF:-1,YTV 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmatOEPJa2l-7ilvXXY0t6I/ts #EXTINF:-1,MNTV http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvjeWHTpPks-OftWH_DZclU/ts #EXTINF:-1,Channel 9 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sho9sqhSQIefR0ibDXH8ACrA/ts 
+
 #EXTINF:-1,M Entertainment 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpT4e7HxlPIqxBvnEwu5l9E/ts 
+
 #EXTINF:-1,5 Plus 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjgfj85FqVsHlswh4ujjLZI/ts 
+
 #EXTINF:-1,Mahar HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgNtNkRz6j-94PiXGi7pk-M/ts 
-#EXTINF:-1,MM Movies 1 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/t 
-#EXTINF:-1,MM Movies 2 
+
+#EXTINF:-1, THUKUMA 1 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts 
+
+#EXTINF:-1,MM ARTS Movies 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts 
-#EXTINF:-1,MM Movies 4 
+
+#EXTINF:-1,MM Movies 3 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts 
-#EXTINF:-1,Movies 1 
+
+#EXTINF:-1, WORLD Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts 
-#EXTINF:-1,Movies 2 
+
+#EXTINF:-1, ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts 
-#EXTINF:-1,Movies 3 
+
+#EXTINF:-1,Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts 
-#EXTINF:-1,Movies 6 
+
+#EXTINF:-1, ROCK ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts 
-#EXTINF:-1,Movies 7 
+
+#EXTINF:-1, ZEECINEMA Moviees
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts 
+
 #EXTINF:-1,Drammer 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsBWIaPuBZPgViWgNi_PA6k/ts 
 
