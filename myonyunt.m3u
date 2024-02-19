@@ -8,6 +8,30 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shp41fpRDDOSCBedgyN7Nca0/ts
 #EXTINF:-1,MRTV HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsq9AE04uNek_9jUJbNGBas/ts 
 
+#EXTINF:-1,MRTV-4 HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsa74THFHcxrnCf7QBj7AF8/ts
+
+#EXTINF:-1,MRTV-4 SD
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsg1Jn7UFQYV-fvSKrhreo4/ts
+
+#EXTINF:-1,Channel7 HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvyTO1ru4O_g0V8OPDlZ5Qg/ts
+
+#EXTINF:-1,Channel7 SD
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shifmHCdh0UY-mV7yEWZ2G-M/ts
+
+#EXTINF:-1,Channel K HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shg1zFirxvt856mVL0KMLViU/ts
+
+#EXTINF:-1,Fortune HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmtgkC9OVuS1PeDDrMXxZGk/ts
+
+#EXTINF:-1,MNTV 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvjeWHTpPks-OftWH_DZclU/ts
+
+#EXTINF:-1,Channel 9 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sho9sqhSQIefR0ibDXH8ACrA/ts 
+
 #EXTINF:-1,MWD HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shheX_fuNhxn740OUWAvmHfM/ts 
 
@@ -249,6 +273,12 @@ http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65607.ts
 #EXTINF:-1, Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1,Sport TV HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shlMXEW-bdumd2NcSvK6QTJE/ts
+
+#EXTINF:-1,V Sport Ultra HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq08fu2538bFo_G-hQUVz9Y/ts
+
 #EXTINF:-1,Arena E-SPORT 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpH9GwuDzEiuR7hdbzkYDiQ/ts
 
@@ -257,6 +287,27 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuPCajLPHbEAZmor3zMfXPo/ts
 
 #EXTINF:-1,Fight Box 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
+
+#EXTINF:-1,TRT 3 SPORT 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjQoTlfQWfew4ZDa23SWLzs/ts
+
+#EXTINF:-1,TRT YILDIZ HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgEsigbVIM8sfUsr822Pgio/ts
+
+#EXTINF:-1,A SPOR HD 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmW7qg_e15XJ2sCa0gDXCXs/ts
+
+#EXTINF:-1,S Sport TR 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjenZPxOEnYBk4p9L0YCS6k/ts 
+
+#EXTINF:-1,S Sport 2 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjTRrs4ZjkoTxv9zxhnVSHg/ts 
+
+#EXTINF:-1,Eurosport 1 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiV7K0MU3mFTM5so76VPwYg/ts
+
+#EXTINF:-1,Eurosport 2	
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjZx2x8I7Bka8cGJH7Yumsg/ts
 
 #EXTINF:-1,Man U TV 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts 
@@ -408,6 +459,8 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1, WWE
 https://247b.mrgamingstreams.com/mrgamingwwenet.m3u8
 
+#EXTINF:-1,WWE FightSport 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvlwgh_lkyiL7mS_ECY2JWA/ts
 
 
 
