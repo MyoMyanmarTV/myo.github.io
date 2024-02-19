@@ -312,6 +312,24 @@ http://103.113.116.150:25461/mtm1/12345/48
 #EXTINF:-1,Laliga 3 HD⚽
 http://103.113.116.150:25461/mtm1/12345/49
 
+#EXTINF:-1, SKYNET SPORT 6 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1, SKYNET SPORT HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
+
+#EXTINF:-1, MM CANAL+SPORT (1)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
+#EXTINF:-1, MM CANAL+SPORT (2)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
+#EXTINF:-1, AstroSupersport (1)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
+#EXTINF:-1, AstroSupersport (2)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
+#EXTINF:-1, AstroSupersport (3)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+#EXTINF:-1, AstroSupersport (4)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
+
 #EXTINF:-1, CANAL+SPORT (1)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/46374.ts
 
@@ -346,6 +364,9 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
 
 #EXTINF:-1,TRT 3 SPORT 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjQoTlfQWfew4ZDa23SWLzs/ts
+
+#EXTINF:-1,SSC EXTRA-1 SPORT
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNNqK1zmzBbR20mjo_00uU4/ts
 
 #EXTINF:-1,TRT YILDIZ HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgEsigbVIM8sfUsr822Pgio/ts
