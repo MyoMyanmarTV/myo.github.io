@@ -333,6 +333,22 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
 #EXTINF:-1, AstroSupersport (4)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
 
+#EXTINF:-1, True Premier  1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1, True Premier 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1,True Spots 2
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1,True Sporsts 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1,True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1,True BelN Sports 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1,True BelN Sports 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+
+
 #EXTINF:-1, CANAL+SPORT (1)⚽
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/46374.ts
 
