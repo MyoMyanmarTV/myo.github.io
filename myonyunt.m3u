@@ -315,54 +315,41 @@ http://103.113.116.150:25461/mtm1/12345/48
 #EXTINF:-1,Laliga 3 HD⚽
 http://103.113.116.150:25461/mtm1/12345/49
 
-#EXTINF:-1, SKYNET SPORT 6 HD
+#EXTINF:-1, SKYNET SPORT 6 HD ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
-#EXTINF:-1, SKY SPORT HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
 
 #EXTINF:-1, MM CANAL+SPORT (1)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
 #EXTINF:-1, MM CANAL+SPORT (2)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
-#EXTINF:-1, AstroSupersport (1)
+#EXTINF:-1, AstroSupersport (1) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
-#EXTINF:-1, AstroSupersport (2)
+#EXTINF:-1, AstroSupersport (2) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
-#EXTINF:-1, AstroSupersport (3)
+#EXTINF:-1, AstroSupersport (3) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
-#EXTINF:-1, AstroSupersport (4)
+#EXTINF:-1, AstroSupersport (4) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
 
-#EXTINF:-1, True Premier  1
+#EXTINF:-1, SKY SPORT HD ⚽
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
+
+
+#EXTINF:-1, True Premier  1 ⚽
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1, True Premier 2
+#EXTINF:-1, True Premier 2 ⚽
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1,True Spots 2
+#EXTINF:-1,True Spots 2 ⚽
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1,True Sporsts 3
+#EXTINF:-1,True Sporsts 3 ⚽
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1,True Sports 7
+#EXTINF:-1,True Sports 7 ⚽
 https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1,True BelN Sports 1
+#EXTINF:-1,True BelN Sports 1 ⚽
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1,True BelN Sports 2
+#EXTINF:-1,True BelN Sports 2 ⚽
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
-
-#EXTINF:-1, CANAL+SPORT (1)⚽
-http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/46374.ts
-
-#EXTINF:-1, CANAL+SPORT (2)⚽
-http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65604.ts
-
-#EXTINF:-1, CANAL+SPORT (3)⚽
-http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65605.ts
-
-#EXTINF:-1, CANAL+SPORT (4)⚽
-http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65606.ts
-
-#EXTINF:-1, CANAL+SPORT (5)⚽
-http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/65607.ts
 #EXTINF:-1, Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
