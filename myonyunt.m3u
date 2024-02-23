@@ -65,31 +65,31 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjgfj85FqVsHlswh4ujjLZI/ts
 #EXTINF:-1,Mahar HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgNtNkRz6j-94PiXGi7pk-M/ts 
 
-#EXTINF:-1, THUKUMA 1 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",THUKUMA 1 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts 
 
-#EXTINF:-1, THUKUMA 2 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",THUKUMA 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts 
 
-#EXTINF:-1, MM ARTS Movies 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MM ARTS Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts 
 
-#EXTINF:-1, WORLD Movies  
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",WORLD Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts 
 
-#EXTINF:-1, ACTION Movies  
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts 
 
 #EXTINF:-1,Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts 
 
-#EXTINF:-1, ROCK ACTION Movies  
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",ROCK ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts 
 
-#EXTINF:-1, ZEECINEMA Moviees
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",ZEECINEMA Moviees
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts 
 
-#EXTINF:-1,Drammer 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Drammer 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsBWIaPuBZPgViWgNi_PA6k/ts 
 
 
@@ -99,46 +99,46 @@ https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MRTV HD
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
 
-#EXTINF:-1,Mrtv Entertainment 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Mrtv Entertainment 
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
 
-#EXTINF:-1,MRTV-4 HD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MRTV-4 HD
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
-#EXTINF:-1,MRTV-4 SD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MRTV-4 SD
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
 
-#EXTINF:-1,Channel7 SD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Channel7 SD
 https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 
-#EXTINF:-1,Channel7 HD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Channel7 HD
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
 
-#EXTINF:-1,Channel K 
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Channel K 
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
 
-#EXTINF:-1,Fortune HD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Fortune HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
-#EXTINF:-1,MNTV HD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MNTV HD
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
-#EXTINF:-1,5 Plus
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",5 Plus
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
 
-#EXTINF:-1,Mahar HD
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Mahar HD
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 
-#EXTINF:-1,Mahar
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1,MVM TV
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MVM TV
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
-#EXTINF:-1,MSC Movies
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",MSC Movies
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
-#EXTINF:-1,Myanmar music
+#EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Myanmar music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1, HBO 
