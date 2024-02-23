@@ -141,49 +141,49 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1, group-title="MyanmarTV" tvg-logo="",Myanmar music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
-#EXTINF:-1, HBO 
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",HBO 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shshL-H9N10TdsdWpX-Qg4nM/ts 
-#EXTINF:-1,HBO 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",HBO 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvmdgqVXqZbpRkV4KuT5fE8/ts 
-#EXTINF:-1,HBO 2 
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",HBO 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgX5m3lJO7DasNfRZEgv_aU/ts 
-#EXTINF:-1,HBO 3 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",HBO 3 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjkwuSM8NWmWcI3KUZoXKng/ts 
-#EXTINF:-1,HBO Family 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",HBO Family 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts 
-#EXTINF:-1,HBO HIts 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",HBO HIts 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts 
-#EXTINF:-1,Cinemax Europe 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemax Europe 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq1jQrSujJw4qsShL-yMCKc/ts 
-#EXTINF:-1,Cinemax 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemax 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts 
-#EXTINF:-1,Cinemax 2 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemax 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiFjX1iYOl_JMGRY_RThyTU/ts 
-#EXTINF:-1,&Priv HD1 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",&Priv HD1 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjbtmB1dH3kl1xzvdaHKqt4/ts 
-#EXTINF:-1,Star Movies HD 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Star Movies HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhT2YGvDWJC-pwIhyQ0FJL0/ts 
-#EXTINF:-1,&flix HD2 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",&flix HD2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts 
-#EXTINF:-1,Filmbox Family 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Filmbox Family 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsNXe0eXkHcE-6NeJAytvo0/ts 
-#EXTINF:-1,FilmboxExtra 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",FilmboxExtra 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvja67oVwrOy6m6Wm9KiYsc/ts 
-#EXTINF:-1,FilmBox Premium 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",FilmBox Premium 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjmeS22x5G09dOa_yFmeJYs/ts 
-#EXTINF:-1,Cinemachi Action 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemachi Action 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shqXhhkhDNdJANl9sB5xgT-4/ts 
-#EXTINF:-1,Cinemachi Max 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemachi Max 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shoeGbvASAlfvRum5EUXDcQ0/ts 
-#EXTINF:-1,Cinemachi 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemachi 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shna0-MkBuXCXVFD8W2apOKY/ts 
-#EXTINF:-1,Cinemachi Xtra 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Cinemachi Xtra 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shm7UBit1Oq-RpDSwAs46Hok/ts 
-#EXTINF:-1,Hits Now Astro 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Hits Now Astro 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq70OijsapAGjyeLQxGFVbc/ts 
-#EXTINF:-1,Movies 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts 
-#EXTINF:-1,Movie Sphere 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Movie Sphere 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrMvYDfqPjEbEbj4fTLtnkM/ts 
 #EXTINF:-1,###CARTOIN Kids### 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shk5ANkA5Ne8b1Gf5DdvYJY4/ts 
@@ -197,339 +197,339 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrWts0M2583hAiEzzTLJLSs/ts
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shujBZ8cgK2cmhYVWeZ_aIWI/ts 
 
 
-#EXTINF:-1,Action Hollywood Movies 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Action Hollywood Movies 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 ,Hollywood HD
+#EXTINF:-1 ,group-title="MOVIES" tvg-logo="",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
-#EXTINF:-1, IFRI CINE Classic Movies SD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",IFRI CINE Classic Movies SD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/134.ts
 
-#EXTINF:-1, IFRI CINE Classic HD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",IFRI CINE Classic HD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/135.ts
 
-#EXTINF:-1, IFRI CINE CLUB Movies SD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",IFRI CINE CLUB Movies SD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/132.ts
 
-#EXTINF:-1, IFRI CINE CLUB Movies HD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",IFRI CINE CLUB Movies HD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/133.ts
 
-#EXTINF:-1, IFRI CINE  Movies HD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",IFRI CINE  Movies HD
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/133.ts
 
-#EXTINF:-1, MOVIE SPHERE-1
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",MOVIE SPHERE-1
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, MOVIE SPHERE-2
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",MOVIE SPHERE-2
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, ION STERY MOVIE 
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",ION STERY MOVIE 
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, CIMESMAX
+#EXTINF:-1, group-title="MOVIES" tvg-logo="",CIMESMAX
 http://64.31.40.14:14031/
 
-#EXTINF:-1,FOX 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",FOX 
 http://198.16.106.146:8000/play/mi601120/wTsKVXwqpGS/321251.ts?token=H0EMV0RQRl8UAwgABgEGDVVQVQEEBwIAUAVSCAYJAwZQAgJVBA1WVldDFRZAFkBdBw48WFASDVcHBlQNUhQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAALXVpIFEdRAEcMQwgCBFcAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBoudRcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYHFUoaDldbWhAMFmlHUQBHDEMIBwBUAhob
 
-#EXTINF:-1,FOX HD
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",FOX HD
 http://50.7.234.90:8000/play/mi601120/wTsKVXwqpGS/321252.ts?token=H0EMV0RQRl8UWQ1QUVIGDwRWVQZSVgUCAlJWWVEPAVEBAVwDUVtUV1BDFRZAFkBdBw48WFASDVcHBlQNURQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAMCU1ZIFEdRAEcMQwsMClIGGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBoudRcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYHFUoaDldbWhAMFmlHUQBHDEMPBQBVEEU=
 
-#EXTINF:-1,FOX SD
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",FOX SD
 http://50.7.188.66:8000/play/mi601120/wTsKVXwqpGS/321253.ts?token=H0EMV0RQRl8UVg8FBQRXCgNUVlADBQZXVgNWXAcOU1BWAFUBAgpWVAVDFRZAFkBdBw48WFASDVcHBlQNUBQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAMBUlZIFEdRAEcMQwANAlEQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRHUuGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVYXG0RVDFZcRwsRO0ZeXEZfFFMIAQVWEEU=
 
-#EXTINF:-1,AXN FHD
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",AXN FHD
 http://198.16.106.146:8000/play/mi601120/wTsKVXwqpGS/321118.ts?token=H0EMV0RQRl8UU1pWA1UEDQVaWgRXCFFRAA9RDAILAwpQBVECAFsCUQZDFRZAFkBdBw48WFASDVcHBlcJWxQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAMGVVtIFEdRAEcMQwsMBVEKGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBoudRcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDU
 
-#EXTINF:-1,AXN HD
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",AXN HD
 http://50.7.234.90:8000/play/mi601120/wTsKVXwqpGS/321119.ts?token=H0EMV0RQRl8UVABWBwEHClVQBwJWAgIHAFRUWQFcBgQHAF0HUg0FBwNDFRZAFkBdBw48WFASDVcHBlcJWhQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAMEVlBIFEdRAEcMQwsEA1oQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRHUuGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVYXG0RVDFZcRwsRO0ZeXEZfFFQNAQdATw==
 
-#EXTINF:-1,AXN SD
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",AXN SD
 http://50.7.188.66:8000/play/mi601120/wTsKVXwqpGS/321120.ts?token=H0EMV0RQRl8UAgxVVwRUXAcCAFMCUgcGU1JWW1YOVgAAWwUFVFtSXQFDFRZAFkBdBw48WFASDVcHBlcKUxQXRhcGFmleXEZfFFMNBAVSAxpKQRdYWVUVXgQAVg9RCAMEU1FIFEdRAEcMQwsAClIGGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBoudRcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYHFUoaDldbWhAMFmlHUQBHDEMAAAZVEEU=
 
-#EXTINF:-1,Movies-1 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Movies-1 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1,&tv 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",&tv 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
-#EXTINF:-1,&picture 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",&picture 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
-#EXTINF:-1,Zee Kannada 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Zee Kannada 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 
-#EXTINF:-1,Zee Marathi 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Zee Marathi 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 
-#EXTINF:-1,Zee anmol 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Zee anmol 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8 
 
-#EXTINF:-1,Zee cinemalu 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Zee cinemalu 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
-#EXTINF:-1,Music India 
+#EXTINF:-1,group-title="MOVIES" tvg-logo="",Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:-1, #### CARTON ####
 http://bananatv.org:25461/play
 
-#EXTINF:-1, IFRI BOING CARTOON
+#EXTINF:-1, group-title="CARTOON" tvg-logo="",IFRI BOING CARTOON
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/240.ts
 
-#EXTINF:-1, IFRI BOOMERANG CARTOON
+#EXTINF:-1, group-title="CARTOON" tvg-logo="",IFRI BOOMERANG CARTOON
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/206.ts
 
-#EXTINF:-1, IFRI CARTOON NETWORK
+#EXTINF:-1, group-title="CARTOON" tvg-logo="",IFRI CARTOON NETWORK
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/208.ts
 
-#EXTINF:-1, IFRI
+#EXTINF:-1, group-title="CARTOON" tvg-logo="",IFRI
 DISLEY CARTOON 
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/227.ts
 
-#EXTINF:-1, IFRI
+#EXTINF:-1, group-title="CARTOON" tvg-logo="",IFRI
 DISLEY+ CARTOON 
 http://s1.czxbexchange.xyz:8080/live/89107816513/94369391286/210.ts
 
 
-#EXTINF:-1,CN Cartoon 
+#EXTINF:-1,group-title="CARTOON" tvg-logo="",CN Cartoon 
 https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
 
-#EXTINF:-1,Boomerang 
+#EXTINF:-1,group-title="CARTOON" tvg-logo="",Boomerang 
 https://ctrl.laotv.la/live/Boomerang/index.m3u8
 
-#EXTINF:-1,CartoonNetowrk 
+#EXTINF:-1,group-title="CARTOON" tvg-logo="",CartoonNetowrk 
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 
-#EXTINF:-1,WB Cartoon 
+#EXTINF:-1,group-title="CARTOON" tvg-logo="",WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1, MM SPORT 6 HD ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",MM SPORT 6 HD ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
-#EXTINF:-1, MM CANAL+SPORT (1) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",MM CANAL+SPORT (1) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
-#EXTINF:-1, MM CANAL+SPORT (2) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",MM CANAL+SPORT (2) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
 
-#EXTINF:-1, AstroSupersport (1) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",AstroSupersport (1) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
-#EXTINF:-1, AstroSupersport (2) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",AstroSupersport (2) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
-#EXTINF:-1, AstroSupersport (3) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",AstroSupersport (3) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
-#EXTINF:-1, AstroSupersport (4) ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",AstroSupersport (4) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
 
-#EXTINF:-1, SKY SPORT HD ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",SKY SPORT HD ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
 
 
-#EXTINF:-1, True Premier  1 ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",True Premier  1 ⚽
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1, True Premier 2 ⚽
+#EXTINF:-1, group-title="SPORT" tvg-logo="",True Premier 2 ⚽
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1,True Spots 2 ⚽
+#EXTINF:-1,group-title="SPORT" tvg-logo="",True Spots 2 ⚽
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1,True Sporsts 3 ⚽
+#EXTINF:-1,group-title="SPORT" tvg-logo="",True Sporsts 3 ⚽
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1,True Sports 7 ⚽
+#EXTINF:-1,group-title="SPORT" tvg-logo="",True Sports 7 ⚽
 https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1,True BelN Sports 1 ⚽
+#EXTINF:-1,group-title="SPORT" tvg-logo="",True BelN Sports 1 ⚽
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1,True BelN Sports 2 ⚽
+#EXTINF:-1,group-title="SPORT" tvg-logo="",True BelN Sports 2 ⚽
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1, WWE Sports 
+#EXTINF:-1, group-title="SPORT" tvg-logo="",WWE Sports 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
 
-#EXTINF:-1, Via Play Sports 1
+#EXTINF:-1, group-title="SPORT" tvg-logo="",Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1,Sport TV HD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sport TV HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shlMXEW-bdumd2NcSvK6QTJE/ts
 
-#EXTINF:-1,V Sport Ultra HD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",V Sport Ultra HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq08fu2538bFo_G-hQUVz9Y/ts
 
-#EXTINF:-1,Arena E-SPORT 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Arena E-SPORT 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpH9GwuDzEiuR7hdbzkYDiQ/ts
 
-#EXTINF:-1,Ginx Esports DE 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Ginx Esports DE 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuPCajLPHbEAZmor3zMfXPo/ts
 
-#EXTINF:-1,Fight Box 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Fight Box 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
 
-#EXTINF:-1,TRT 3 SPORT 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",TRT 3 SPORT 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjQoTlfQWfew4ZDa23SWLzs/ts
 
-#EXTINF:-1,SSC EXTRA-1 SPORT
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SSC EXTRA-1 SPORT
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNNqK1zmzBbR20mjo_00uU4/ts
 
-#EXTINF:-1,TRT YILDIZ HD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",TRT YILDIZ HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgEsigbVIM8sfUsr822Pgio/ts
 
-#EXTINF:-1,A SPOR HD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",A SPOR HD 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmW7qg_e15XJ2sCa0gDXCXs/ts
 
-#EXTINF:-1,S Sport TR 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",S Sport TR 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjenZPxOEnYBk4p9L0YCS6k/ts 
 
-#EXTINF:-1,S Sport 2 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",S Sport 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjTRrs4ZjkoTxv9zxhnVSHg/ts 
 
-#EXTINF:-1,Eurosport 1 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Eurosport 1 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiV7K0MU3mFTM5so76VPwYg/ts
 
-#EXTINF:-1,Eurosport 2	
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Eurosport 2	
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjZx2x8I7Bka8cGJH7Yumsg/ts
 
-#EXTINF:-1,Man U TV 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Man U TV 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts 
 
-#EXTINF:-1,Via Play Sports 2
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Via Play Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1, Setanta sport-1
+#EXTINF:-1, group-title="SPORT" tvg-logo="",Setanta sport-1
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
 
-#EXTINF:-1, Setanta sport-2
+#EXTINF:-1, group-title="SPORT" tvg-logo="",Setanta sport-2
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
 
-#EXTINF:-1,sport-1
+#EXTINF:-1,group-title="SPORT" tvg-logo="",sport-1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
-#EXTINF:-1,sport-2
+#EXTINF:-1,group-title="SPORT" tvg-logo="",sport-2
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 
-#EXTINF:-1,Sony ten-1
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sony ten-1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1,Sony ten-2
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sony ten-2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1,Sony ten-3
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sony ten-3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF:-1,Sony ten-4
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sony ten-4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1,Sony ten-5
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Sony ten-5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1,Truesport-1
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Truesport-1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1,Truesport-2
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Truesport-2
 https://edge1.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1, beinsport 1
+#EXTINF:-1, group-title="SPORT" tvg-logo="",beinsport 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1, beinsport 2
+#EXTINF:-1, group-title="SPORT" tvg-logo="",beinsport 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1, Eleven sport 2
+#EXTINF:-1, group-title="SPORT" tvg-logo="",Eleven sport 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 
-#EXTINF:-1, Eleven sport 3
+#EXTINF:-1, group-title="SPORT" tvg-logo="",Eleven sport 3
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 
-#EXTINF:-1,Man U TV
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Man U TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
-#EXTINF:-1,SuperSport Action
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Action
 http://195.26.87.217/live.ts?channelId=125436&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Blitz
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Blitz
 http://195.26.87.217/live.ts?channelId=125437&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Football
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Football
 http://195.26.87.217/live.ts?channelId=125439&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Golf
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Golf
 http://195.26.87.217/live.ts?channelId=125440&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Grandstand
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Grandstand
 http://195.26.87.217/live.ts?channelId=125441&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport LaLiga
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport LaLiga
 http://195.26.87.217/live.ts?channelId=125442&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Maximo 1
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Maximo 1
 http://195.26.87.217/live.ts?channelId=125443&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport PSL
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport PSL
 http://195.26.87.217/live.ts?channelId=125446&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Rugby
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Rugby
 http://195.26.87.217/live.ts?channelId=125447&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Tennis
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Tennis
 http://195.26.87.217/live.ts?channelId=125448&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Variety 1
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Variety 1
 http://195.26.87.217/live.ts?channelId=125449&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Variety 2
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Variety 2
 http://195.26.87.217/live.ts?channelId=125450&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Variety 3
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Variety 3
 http://195.26.87.217/live.ts?channelId=125451&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,SuperSport Variety 4
+#EXTINF:-1,group-title="SPORT" tvg-logo="",SuperSport Variety 4
 http://195.26.87.217/live.ts?channelId=125452&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1,Man U TV
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Man U TV
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts
 
-#EXTINF:-1,FoxSport 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",FoxSport 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1,FoxSport 2 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",FoxSport 2 
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
-#EXTINF:-1,Fox Sports 3 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Fox Sports 3 
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 
-#EXTINF:-1 ,Star Sports
+#EXTINF:-1 ,group-title="SPORT" tvg-logo="",Star Sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 ,Star sports
+#EXTINF:-1 ,group-title="SPORT" tvg-logo="",Star sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1,Start Sports 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Start Sports 
 https://strm.yandex.ru/kal/start/start0.m3u8
 
-#EXTINF:-1,Star Sports 1HD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Star Sports 1HD 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1,Star sports 1SD 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Star sports 1SD 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1,BEK Sports West 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",BEK Sports West 
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
-#EXTINF:-1,One Golf 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",One Golf 
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1,MUTV Sport 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",MUTV Sport 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
 
-#EXTINF:-1,Real Madrid TV 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Real Madrid TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8 
 
-#EXTINF:-1,Trace Sport Stars 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",Trace Sport Stars 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,TVS Women Sports 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",TVS Women Sports 
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
-#EXTINF:-1,FOX WWW SPORTS 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",FOX WWW SPORTS 
 http://208.86.19.13:81/103.stream/index.m3u8
 
-#EXTINF:-1,CCTV 5 
+#EXTINF:-1,group-title="SPORT" tvg-logo="",CCTV 5 
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1, WWE
