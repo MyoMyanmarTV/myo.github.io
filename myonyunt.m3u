@@ -337,6 +337,19 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1,True BelN Sports 2 ⚽
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1,Truesport-1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1,Truesport-2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1, beinsport 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1, beinsport 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+
 #EXTINF:-1, WWE Sports 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
 
@@ -415,17 +428,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1,Sony ten-5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1,Truesport-1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1,Truesport-2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1, beinsport 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1, beinsport 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1, Eleven sport 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
@@ -478,8 +480,6 @@ http://195.26.87.217/live.ts?channelId=125451&uid=7435&deviceMac=00:1A:79:51:4B:
 #EXTINF:-1, SuperSport Variety 4
 http://195.26.87.217/live.ts?channelId=125452&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1, Man U TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts
 
 #EXTINF:-1, FoxSport 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
@@ -513,6 +513,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1, MUTV Sport 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
+#EXTINF:-1, Man U TV
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts
+
 
 #EXTINF:-1, Real Madrid TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8 
