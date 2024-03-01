@@ -80,9 +80,6 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
 #EXTINF:-1, MM ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts 
 
-#EXTINF:-1,Movies 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts 
-
 #EXTINF:-1, MM ROCK ACTION Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts 
 
@@ -425,9 +422,6 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1, Eleven sport 3
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 
-#EXTINF:-1,Man U TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-
 #EXTINF:-1,SuperSport Action
 http://195.26.87.217/live.ts?channelId=125436&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
@@ -503,9 +497,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1, MUTV Sport 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
+
 #EXTINF:-1, Man U TV
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts
-
 
 #EXTINF:-1, Real Madrid TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8 
