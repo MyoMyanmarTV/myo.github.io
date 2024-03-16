@@ -512,10 +512,11 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1, WWE
 https://247b.mrgamingstreams.com/mrgamingwwenet.m3u8
 
-#EXTINF:-1,WWE FightSport 
+#EXTINF:-1,WWE Sport 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvlwgh_lkyiL7mS_ECY2JWA/ts
 
-
+#EXTINF:-1, Fight SPORT
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
 
 
 
