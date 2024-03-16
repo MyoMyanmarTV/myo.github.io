@@ -106,15 +106,14 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1, 🇲🇲 Myanmar music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
-
 #EXTINF:-1, 🇲🇲 THUKUMA 1 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts 
 
 #EXTINF:-1, 🇲🇲 THUKUMA 2 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts 
 
-#EXTINF:-1,  M M Movies
-http://bananatv.org:25461/live/b003/call09950405030/6549.ts
+#EXTINF:-1, 🇲🇲 ASIAN Movies
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
 
 #EXTINF:-1, 🇲🇲 ARTS Movies 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts 
@@ -291,14 +290,13 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
 #EXTINF:-1, AstroSupersport (2) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
-#EXTINF:-1, AstroSupersport (3) ⚽
+#EXTINF:-1, 🇲🇲 AstroSupersport (3) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
 #EXTINF:-1, AstroSupersport (4) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
 
 #EXTINF:-1, SKY SPORT HD ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
-
 
 #EXTINF:-1, True Premier  1 ⚽
 https://ctrl.laotv.la/live/TSport1/index.m3u8
@@ -310,22 +308,21 @@ https://edge1.laotv.la/live/TrueSport6/index.m3u8
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1,True Sports 7 ⚽
 https://edge1.laotv.la/live/THD7/index.m3u8
+
 #EXTINF:-1,True BelN Sports 1 ⚽
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1,True BelN Sports 2 ⚽
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1, beinsport 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1, beinsport 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1,Truesport-1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1,Truesport-2
 https://edge1.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1, beinsport 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1, beinsport 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1, Premier Sport 1 
 http://202.21.104.6:88/sps-prime/index.m3u8
