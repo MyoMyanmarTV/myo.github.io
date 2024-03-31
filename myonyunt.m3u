@@ -278,14 +278,16 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 
 #EXTINF:-1,WB Cartoon 
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1,   🇲🇲 SPORT HD 
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
-#EXTINF:-1,  🇲🇲 SPORT 6 HD ⚽
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+
 #EXTINF:-1, 🇲🇲 CANAL+SPORT (1) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
 #EXTINF:-1, 🇲🇲 CANAL+SPORT (2) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
+
+#EXTINF:-1,   🇲🇲 SPORT HD 
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+#EXTINF:-1,  🇲🇲 SPORT 6 HD ⚽
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
 
 #EXTINF:-1, *Sport (1) ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
