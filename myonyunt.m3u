@@ -307,20 +307,36 @@ http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUyLNnfE05hxHdw962aSw5LM/ts
 #EXTINF:-1,   MM SPORT 6 HD 
 http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU0tcAao_P-RS6n0mSqHQ58c/ts
 #EXTINF:-1, *Sport (1) ⚽
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU1sEoJya0Oie-I6o3beCFvs/ts
 #EXTINF:-1, *Sport (2) ⚽
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU0tcAao_P-RS6n0mSqHQ58c/ts
 #EXTINF:-1, *Sport (3) ⚽
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU-FPX8r4b1nOWdFlriCZyog/ts
 #EXTINF:-1, *Sport (4) ⚽
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
-
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUzeOfuO65kKVnBJSyeIf0Zc/ts
+lay/F_cCfu-TJq91VVDewuxSU-FPX8r4b1nOWdFlriCZyog/ts
+#EXTINF:-1, *Sport (5) 
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUzZtvXcvBhpdoJRWTuqD664/ts
+#EXTINF:-1, *Sport (6) 
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUwqi6vIsffIFXAo4cX5nDEg/ts
+#EXTINF:-1, *Sport (7)
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU6FZwzro8YNEf_nEWscVhCI/ts
+#EXTINF:-1, *Sport (7)
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU4A8SX7nNxVBH9reXtOqeKc/ts
 #EXTINF:-1, SKY SPORT HD ⚽
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
 
 #EXTINF:-1, SSC 1 SPORT HD 
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNNqK1zmzBbR20mjo_00uU4/ts
 
+#EXTINF:-1, beinsport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+
+#EXTINF:-1, beinsport 2
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU2F5TeQ_QvZv6bGYA6SCE5g/ts
+
+#EXTINF:-1, beinsport 3
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU2F5TeQ_QvZv6bGYA6SCE5g/
 
 #EXTINF:-1, True Premier  1 ⚽
 https://ctrl.laotv.la/live/TSport1/index.m3u8
