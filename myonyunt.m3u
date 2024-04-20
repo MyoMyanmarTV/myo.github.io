@@ -106,6 +106,12 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1, 🇲🇲 Myanmar music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
+#EXTINF:-1, 🇲🇲 ARTS Movies 
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ 
+
+#EXTINF:-1, MM MOVIE
+http://bananatv.org:25461/play/XjT2EXA08PUY_UoWVR_qEY7xCRrML7zIJm8WpyPWUdo/ts
+
 #EXTINF:-1, 🇲🇲 THUKUMA 1 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts 
 
@@ -131,8 +137,6 @@ http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU8tcmFqMqWL1vU51phzqTME/ts
 #EXTINF:-1, 🇲🇲 ASIAN Movies
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
 
-#EXTINF:-1, 🇲🇲 ARTS Movies 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts 
 
 #EXTINF:-1, 🇲🇲 WORLD Movies  
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts 
